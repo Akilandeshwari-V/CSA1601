@@ -1,0 +1,29 @@
+{
+  "name": "smartdmart",
+  "private": true,
+  "version": "1.0.0",
+  "description": "SmartDMart: full-stack retail analytics (React + Three.js frontend, Node + SQLite backend)",
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "dev:client": "vite",
+    "dev:server": "node --no-warnings --watch server/index.js",
+    "build": "vite build",
+    "start": "node --no-warnings server/index.js",
+    "preview": "vite preview",
+    "test": "node tests/run.mjs && node --no-warnings tests/api.mjs"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "recharts": "^2.15.0",
+    "three": "^0.170.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.11"
+  },
+  "engines": {
+    "node": ">=22.13"
+  }
+}

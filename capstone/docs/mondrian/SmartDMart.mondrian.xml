@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<!--
+  DRAFT Mondrian 3.x schema for the SmartDMart star schema (external tool, documented only).
+  Written from SmartDMart_Star_Schema.drawio. It has NOT been tested against a Mondrian installation:
+  check table/column case and your JDBC data source before use.
+-->
+<Schema name="SmartDMart">
+  <Cube name="SmartDMart Sales" defaultMeasure="Total Sales">
+    <Table name="FACT_SALES"/>
+
+    <Dimension name="Product" foreignKey="Product_Key">
+      <Hierarchy hasAll="true" allMemberName="All Products" primaryKey="Product_Key">
+        <Table name="DIM_PRODUCT"/>
+        <Level name="Category" column="Category" uniqueMembers="false"/>
+        <Level name="Brand" column="Brand" uniqueMembers="false"/>
+        <Level name="Product" column="Product" uniqueMembers="true"/>
+      </Hierarchy>
+    </Dimension>
+
+    <Dimension name="Time" type="TimeDimension" foreignKey="Date_Key">
+      <Hierarchy hasAll="true" allMemberName="All Time" primaryKey="Date_Key">
+        <Table name="DIM_DATE"/>
+        <Level name="Year" column="Year" type="Numeric" uniqueMembers="true" levelType="TimeYears"/>
+        <Level name="Quarter" column="Quarter" type="Numeric" uniqueMembers="false" levelType="TimeQuarters"/>
+        <Level name="Month" column="Month" type="Numeric" uniqueMembers="false" levelType="TimeMonths"/>
+        <Level name="Day" column="Day" type="Numeric" uniqueMembers="false" levelType="TimeDays"/>
+      </Hierarchy>
+    </Dimension>
+
+    <Dimension name="Location" foreignKey="Store_Key">
+      <Hierarchy hasAll="true" allMemberName="All Stores" primaryKey="Store_Key">
+        <Table name="DIM_STORE"/>
+        <Level name="Store" column="Store" uniqueMembers="true"/>
+        <Level name="City" column="City" uniqueMembers="false"/>
+      </Hierarchy>
+    </Dimension>
+
+    <Dimension name="Payment" foreignKey="Payment_Key">
+      <Hierarchy hasAll="true" primaryKey="Payment_Key">
+        <Table name="DIM_PAYMENT"/>
+        <Level name="Payment Method" column="Payment_Method" uniqueMembers="true"/>
+      </Hierarchy>
+    </Dimension>
+
+    <Dimension name="Customer Type" foreignKey="Customer_Type_Key">
+      <Hierarchy hasAll="true" primaryKey="Customer_Type_Key">
+        <Table name="DIM_CUSTOMER_TYPE"/>
+        <Level name="Customer Type" column="Customer_Type" uniqueMembers="true"/>
+      </Hierarchy>
+    </Dimension>
+
+    <Measure name="Total Sales" column="Sales" aggregator="sum" formatString="#,##0.00"/>
+    <Measure name="Total Profit" column="Profit" aggregator="sum" formatString="#,##0.00"/>
+    <Measure name="Total Quantity" column="Quantity" aggregator="sum" formatString="#,##0"/>
+  </Cube>
+</Schema>

@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Store,City,Product,Category,Brand,Quantity,Original_Price,Discount_%,Selling_Price,Sales,Cost,Profit,Payment_Method,Customer_Type
+1,+,DMart East,Nashik,India Gate Basmati Rice 5kg,Grocery,India Gate,1,520,15,442,442,374.4,67.6,UPI,New Customer
+2,05-08-2025,DMart Central,Nagpur,India Gate Basmati Rice 5kg,Grocery,India Gate,2,520,10,468,936,748.8,187.2,Cash,Regular
+3,12-04-2025,DMart South,Navi Mumbai,Dove Soap 100g,Personal Care,Dove,1,62,10,55.8,55.8,44.64,11.16,UPI,Member
+4,04-01-2025,DMart East,Navi Mumbai,Kissan Tomato Ketchup 1kg,Food,Kissan,5,145,20,116,580,522,58,Debit Card,Member
+5,22-06-2025,DMart Central,Pune,Surf Excel Matic 2kg,Home Care,Surf Excel,4,410,20,328,1312,1180.8,131.2,Credit Card,Regular
+6,16-05-2025,DMart Central,Amravati,Lay's Classic Salted 52g,Snacks,Lay's,6,25,10,22.5,135,108,27,Cash,Member
+7,18-11-2025,DMart South,Thane,Tata Salt 1kg,Grocery,Tata,5,28,20,22.4,112,100.8,11.2,UPI,New Customer
+8,27-04-2025,DMart West,Pune,Tata Salt 1kg,Grocery,Tata,1,28,15,23.8,23.8,20.16,3.64,UPI,Regular
+9,22-11-2025,DMart West,Mumbai,Coca-Cola 750ml,Beverages,Coca-Cola,5,45,5,42.75,213.75,162,51.75,Debit Card,Member
+10,16-12-2025,DMart Central,Solapur,Colgate MaxFresh 150g,Personal Care,Colgate,0,125,15,106.25,531.25,450,81.25,UPI,New Customer
+11,14-07-2025,DMart West,Kolhapur,Dove Soap 100g,Personal Care,Dove,3,62,5,58.9,176.7,133.92,42.78,UPI,New Customer
+12,17-01-2025,DMart West,Navi Mumbai,Britannia Bread 400g,Bakery,Britannia,1,45,0,45,45,32.4,12.6,Debit Card,Regular
+13,02-12-2025,DMart North,Navi Mumbai,Colgate MaxFresh 150g,Personal Care,Colgate,6,125,0,125,750,540,210,Credit Card,Regular
+14,15-10-2025,DMart South,Aurangabad,Parle-G Biscuits 800g,Food,Parle,3,85,0,85,255,183.6,71.4,Credit Card,New Customer
+15,12-03-2025,DMart South,Amravati,Coca-Cola 750ml,Beverages,Coca-Cola,6,45,0,45,270,194.4,75.6,Cash,Regular
+16,23-03-2025,DMart North,Solapur,India Gate Basmati Rice 5kg,Grocery,India Gate,3,520,15,442,1326,1123.2,202.8,Cash,Member
+17,09-05-2025,DMart South,Nagpur,Coca-Cola 750ml,Beverages,Coca-Cola,8,45,10,40.5,324,259.2,64.8,Cash,New Customer
+18,25-11-2025,DMart West,Pune,Harpic Toilet Cleaner 1L,Home Care,Harpic,5,190,20,152,760,684,76,Debit Card,Member
+19,15-05-2025,DMart South,Mumbai,Vim Dishwash Bar 200g,Home Care,Vim,8,35,0,35,280,201.6,78.4,Cash,New Customer
+20,11-07-2025,DMart East,Kolhapur,Amul Taaza Milk 1L,Dairy,Amul,4,62,0,62,248,178.56,69.44,Cash,New Customer
+21,27-02-2025,DMart West,Aurangabad,Britannia Bread 400g,Bakery,Britannia,8,45,0,45,360,259.2,100.8,UPI,Regular
+22,06-09-2025,DMart Central,Kolhapur,Dove Soap 100g,Personal Care,Dove,2,62,0,62,124,89.28,34.72,UPI,Regular
+23,28-09-2025,DMart South,Navi Mumbai,Pampers Diapers M 30s,Baby Care,Pampers,3,650,0,650,1950,1404,546,UPI,New Customer
+24,10-12-2025,DMart West,Amravati,Colgate MaxFresh 150g,Personal Care,Colgate,5,125,5,118.75,593.75,450,143.75,Credit Card,Regular
+25,23-06-2025,DMart Central,Solapur,Dove Soap 100g,Personal Care,Dove,4,62,0,62,-500,178.56,69.44,UPI,New Customer
+26,29-12-2025,DMart Central,Nashik,Dove Soap 100g,Personal Care,Dove,1,62,0,62,62,44.64,17.36,Cash,Regular
+27,02-05-2025,DMart West,Amravati,Britannia Bread 400g,Bakery,Britannia,2,45,10,40.5,81,64.8,16.2,UPI,New Customer
+28,31-08-2025,DMart North,Nashik,Surf Excel Matic 2kg,Home Care,Surf Excel,8,410,0,410,3280,2361.6,918.4,Cash,Regular
+29,30-07-2025,DMart North,Nagpur,Tata Tea Gold 500g,Beverages,Tata,6,280,5,266,1596,1209.6,386.4,Cash,Regular
+30,25-02-2025,DMart East,Nashik,Coca-Cola 750ml,Beverages,Coca-Cola,6,45,20,36,216,194.4,21.6,UPI,New Customer
+31,04-04-2025,DMart West,Amravati,Nescafe Classic 100g,Beverages,Nescafe,3,310,5,294.5,883.5,669.6,213.9,UPI,Regular
+32,30-11-2025,DMart South,Nagpur,Nescafe Classic 100g,Beverages,Nescafe,2,310,0,310,620,446.4,173.6,Cash,Regular
+33,04-09-2025,DMart East,Navi Mumbai,Vim Dishwash Bar 200g,Home Care,Vim,7,35,5,33.25,232.75,176.4,56.35,Cash,Regular
+34,16-05-2025,DMart North,Aurangabad,Coca-Cola 750ml,Beverages,Coca-Cola,1,45,5,42.75,42.75,32.4,10.35,Credit Card,New Customer
+35,08-04-2025,DMart West,Nashik,Harpic Toilet Cleaner 1L,Home Care,Harpic,8,190,0,190,1520,1094.4,425.6,Cash,New Customer
+36,10-06-2025,DMart Central,Nagpur,Harpic Toilet Cleaner 1L,Home Care,Harpic,1,190,15,161.5,161.5,136.8,24.7,Credit Card,New Customer
+37,18-09-2025,DMart Central,Mumbai,Dettol Handwash 250ml,Personal Care,Dettol,3,95,0,95,285,205.2,79.8,Cash,New Customer
+38,03-03-2025,DMart South,Nashik,Tata Salt 1kg,Grocery,Tata,4,28,5,26.6,106.4,80.64,25.76,Cash,New Customer
+39,26-10-2025,DMart South,Kolhapur,Tata Salt 1kg,Grocery,Tata,7,28,15,23.8,166.6,141.12,25.48,Debit Card,Member
+40,16-05-2025,DMart North,Mumbai,Colgate MaxFresh 150g,Personal Care,Colgate,6,125,120,125,750,540,210,Debit Card,Member
+41,23-08-2025,DMart South,Solapur,Britannia Bread 400g,Bakery,Britannia,2,45,0,45,90,64.8,25.2,Cash,Regular
+42,16-05-2025,DMart East,Thane,Harpic Toilet Cleaner 1L,Home Care,Harpic,4,190,10,171,684,547.2,136.8,Cash,Regular
+43,13-08-2025,DMart South,Aurangabad,Lay's Classic Salted 52g,Snacks,Lay's,5,25,0,25,125,90,35,Cash,New Customer
+44,23-02-2025,DMart East,Aurangabad,Harpic Toilet Cleaner 1L,Home Care,Harpic,5,190,15,161.5,807.5,684,123.5,Cash,Regular
+45,25-05-2025,DMart South,Nashik,Harpic Toilet Cleaner 1L,Home Care,Harpic,3,190,0,190,570,410.4,159.6,Debit Card,Regular
+46,27-01-2025,DMart Central,Navi Mumbai,Parle-G Biscuits 800g,Food,Parle,8,85,0,85,680,489.6,190.4,Debit Card,Regular
+47,08-03-2025,DMart West,Mumbai,Aashirvaad Atta 5kg,Grocery,Aashirvaad,6,280,20,224,1344,1209.6,134.4,Credit Card,New Customer
+48,08-02-2025,DMart East,Kolhapur,Tata Tea Gold 500g,Beverages,Tata,1,280,0,280,280,201.6,78.4,Cash,Member
+49,07-03-2025,DMart Central,Aurangabad,Kissan Tomato Ketchup 1kg,Food,Kissan,3,145,5,137.75,413.25,313.2,100.05,Debit Card,Regular
+50,08-05-2025,DMart Central,Thane,Lay's Classic Salted 52g,Snacks,Lay's,4,25,15,21.25,85,72,13,Credit Card,New Customer
+51,25-03-2025,DMart East,Navi Mumbai,Surf Excel Matic 2kg,Home Care,Surf Excel,4,410,20,328,1312,1180.8,131.2,Cash,Regular
+52,09-12-2025,DMart East,Aurangabad,Britannia Bread 400g,Bakery,Britannia,7,45,20,36,252,226.8,25.2,UPI,New Customer
+53,20-01-2025,DMart North,Nashik,India Gate Basmati Rice 5kg,Grocery,India Gate,7,520,20,416,2912,2620.8,291.2,UPI,Member
+54,27-04-2025,DMart East,Nagpur,Lay's Classic Salted 52g,Snacks,Lay's,5,25,20,20,100,90,10,UPI,Member
+55,05-02-2025,DMart West, Nagpur ,Britannia Bread 400g,Bakery,Britannia,5,45,20,36,180,162,18,Credit Card,New Customer
+56,01-03-2025,DMart West,Mumbai,Harpic Toilet Cleaner 1L,Home Care,Harpic,6,190,0,190,1140,820.8,319.2,Debit Card,Regular
+57,10-06-2025,DMart North,Solapur,India Gate Basmati Rice 5kg,Grocery,India Gate,7,520,0,520,3640,2620.8,1019.2,Cash,Member
+58,23-01-2025,DMart North,Nagpur,Kissan Tomato Ketchup 1kg,Food,Kissan,4,145,0,145,580,417.6,162.4,UPI,Member
+59,19-06-2025,DMart South,Thane,Tata Tea Gold 500g,Beverages,Tata,2,280,15,238,476,403.2,72.8,Cash,New Customer
+60,29-07-2025,DMart West,Navi Mumbai,Amul Taaza Milk 1L,Dairy,Amul,5,62,15,52.7,263.5,223.2,40.3,Debit Card,New Customer
+61,07-12-2025,DMart North,Mumbai,Surf Excel Matic 2kg,Home Care,Surf Excel,4,410,5,389.5,1558,1180.8,377.2,Debit Card,Member
+62,27-05-2025,DMart East,Navi Mumbai,Harpic Toilet Cleaner 1L,Home Care,Harpic,1,190,0,190,190,136.8,53.2,Debit Card,Member
+63,20-04-2025,DMart South,Amravati,Nescafe Classic 100g,Beverages,Nescafe,8,310,15,263.5,2108,1785.6,322.4,UPI,New Customer
+64,06-12-2025,DMart South,Thane,Tata Salt 1kg,Grocery,Tata,5,28,10,25.2,126,100.8,25.2,Cash,Regular
+65,12-04-2025,DMart East,Nagpur,Amul Taaza Milk 1L,Dairy,Amul,4,62,20,49.6,198.4,178.56,19.84,Cash,Regular
+66,01-08-2025,DMart South,Nashik,Pampers Diapers M 30s,Baby Care,Pampers,2,650,5,617.5,1235,936,299,Credit Card,Member
+67,02-12-2025,DMart Central,Pune,Coca-Cola 750ml,Beverages,Coca-Cola,4,45,0,45,180,129.6,50.4,Credit Card,Regular
+68,13-10-2025,DMart East,Pune,Vim Dishwash Bar 200g,Home Care,Vim,8,35,0,35,280,201.6,78.4,Credit Card,Regular
+69,15-08-2025,DMart South,Kolhapur,Nescafe Classic 100g,Beverages,Nescafe,6,310,20,248,1488,1339.2,148.8,Credit Card,New Customer
+70,01-09-2025,DMart North,Aurangabad,Nescafe Classic 100g,Beverages,Tataa,3,310,15,263.5,790.5,669.6,120.9,UPI,New Customer
+71,03-05-2025,DMart West,Amravati,Parle-G Biscuits 800g,Food,Parle,8,85,15,72.25,578,489.6,88.4,Cash,New Customer
+72,21-06-2025,DMart West,Kolhapur,Amul Taaza Milk 1L,Dairy,Amul,4,62,0,62,248,178.56,69.44,Cash,Regular
+73,22-12-2025,DMart East,Nashik,Surf Excel Matic 2kg,Home Care,Surf Excel,4,410,5,389.5,1558,1180.8,377.2,Cash,Member
+74,27-08-2025,DMart North,Nagpur,Tata Tea Gold 500g,Beverages,Tata,6,280,10,252,1512,1209.6,302.4,UPI,Member
+75,22-10-2025,DMart North,Amravati,Coca-Cola 750ml,Beverages,Coca-Cola,1,45,20,36,36,32.4,3.6,Cash,Member
+76,03-08-2025,DMart South,Kolhapur,Amul Taaza Milk 1L,Dairy,Amul,7,62,20,49.6,347.2,312.48,34.72,UPI,Member
+77,06-09-2025,DMart Central,Navi Mumbai,Dove Soap 100g,Personal Care,Dove,5,62,5,58.9,294.5,223.2,71.3,Debit Card,New Customer
+78,28-08-2025,DMart East,Solapur,Coca-Cola 750ml,Beverages,Coca-Cola,3,45,20,36,108,97.2,10.8,Cash,Member
+79,26-11-2025,DMart North,Mumbai,Kissan Tomato Ketchup 1kg,Food,Kissan,1,145,0,145,145,104.4,40.6,Credit Card,Regular
+80,17-06-2025,DMart East,Amravati,Fortune Sunflower Oil 1L,Grocery,Fortune,5,145,5,137.75,688.75,522,166.75,Debit Card,Member
+81,04-08-2025,DMart West,Pune,Coca-Cola 750ml,Beverages,Coca-Cola,5,45,20,36,180,162,18,Credit Card,Regular
+82,25-04-2025,DMart Central,Nagpur,Harpic Toilet Cleaner 1L,Home Care,Harpic,1,190,0,190,190,136.8,53.2,Cash,Regular
+83,20-03-2025,DMart East,Mumbai,Colgate MaxFresh 150g,Personal Care,Colgate,1,125,10,112.5,112.5,90,22.5,Credit Card,New Customer
+84,25-12-2025,DMart West,Thane,India Gate Basmati Rice 5kg,Grocery,India Gate,4,520,5,494,1976,1497.6,478.4,UPI,New Customer
+85,25-03-2025,DMart West,Pune,Maggi 2-Minute Noodles 280g,Food,Nestle,2,70,20,56,112,100.8,11.2,,Member
+86,12-04-2025,DMart Central,Solapur,Kissan Tomato Ketchup 1kg,Food,Kissan,7,145,5,137.75,964.25,730.8,233.45,UPI,Regular
+87,17-10-2025,DMart Central,Thane,Amul Taaza Milk 1L,Dairy,Amul,2,62,20,49.6,99.2,89.28,9.92,Credit Card,New Customer
+88,28-11-2025,DMart West,Nagpur,Lay's Classic Salted 52g,Snacks,Lay's,2,25,10,22.5,45,36,9,Credit Card,Member
+89,22-11-2025,DMart North,Mumbai,India Gate Basmati Rice 5kg,Grocery,India Gate,7,520,0,520,3640,2620.8,1019.2,Credit Card,Regular
+90,03-10-2025,DMart North,Amravati,Dettol Handwash 250ml,Personal Care,Dettol,5,95,10,85.5,427.5,342,85.5,Credit Card,New Customer
+91,06-05-2025,DMart Central,Aurangabad,Kissan Tomato Ketchup 1kg,Food,Kissan,5,145,0,145,725,522,203,Credit Card,Regular
+92,15-01-2025,DMart North,Thane,Nescafe Classic 100g,Beverages,Nescafe,7,310,0,310,2170,1562.4,607.6,UPI,Member
+93,13-05-2025,DMart West,Aurangabad,Colgate MaxFresh 150g,Personal Care,Colgate,6,125,20,100,600,540,60,Debit Card,New Customer
+94,04-05-2025,DMart North,Amravati,Aashirvaad Atta 5kg,Grocery,Aashirvaad,4,280,0,280,1120,806.4,313.6,UPI,New Customer
+95,09-01-2025,DMart Central,Aurangabad,Pampers Diapers M 30s,Baby Care,Pampers,8,650,5,617.5,4940,3744,1196,UPI,Member
+96,25-10-2025,DMart West,Amravati,Dove Soap 100g,Personal Care,Dove,5,62,15,52.7,263.5,223.2,40.3,Debit Card,Member
+97,26-12-2025,DMart North,Aurangabad,Harpic Toilet Cleaner 1L,Home Care,Harpic,6,190,0,190,1140,820.8,319.2,Debit Card,Member
+98,09-04-2025,DMart West,Pune,Dove Soap 100g,Personal Care,Dove,2,62,15,52.7,105.4,89.28,16.12,UPI,Regular
+99,29-10-2025,DMart South,Solapur,Colgate MaxFresh 150g,Personal Care,Colgate,8,125,0,125,1000,720,280,Debit Card,Regular
+100,2025/99/99,DMart East,Aurangabad,Colgate MaxFresh 150g,Personal Care,Colgate,5,125,0,125,625,450,175,Cash,New Customer
+101,24-01-2025,DMart Central,Kolhapur,Harpic Toilet Cleaner 1L,Home Care,Harpic,3,190,0,190,570,410.4,159.6,Debit Card,New Customer
+102,07-01-2025,DMart South,Aurangabad,Surf Excel Matic 2kg,Home Care,Surf Excel,8,410,0,410,3280,2361.6,918.4,Credit Card,Member
+103,27-01-2025,DMart West,Amravati,Nescafe Classic 100g,Beverages,Nescafe,6,310,0,310,1860,1339.2,520.8,Cash,Regular
+104,23-10-2025,DMart Central,Mumbai,Coca-Cola 750ml,Beverages,Coca-Cola,8,45,0,45,360,259.2,100.8,UPI,New Customer
+105,02-03-2025,DMart South,Navi Mumbai,Amul Taaza Milk 1L,Dairy,Amul,2,62,0,62,124,89.28,34.72,UPI,New Customer
+106,02-06-2025,DMart South,Navi Mumbai,Coca-Cola 750ml,Beverages,Coca-Cola,8,45,5,42.75,342,259.2,82.8,Debit Card,New Customer
+107,20-02-2025,DMart East,Nashik,Maggi 2-Minute Noodles 280g,Food,Nestle,1,70,10,63,63,50.4,12.6,Debit Card,New Customer
+108,30-03-2025,DMart South,Pune,Tata Salt 1kg,Grocery,Tata,3,28,0,28,84,60.48,23.52,UPI,Regular
+109,01-11-2025,DMart North,Aurangabad,Tata Tea Gold 500g,Beverages,Tata,8,280,15,238,1904,1612.8,291.2,Cash,Regular
+110,21-08-2025,DMart Central,Nashik,Amul Taaza Milk 1L,Dairy,Amul,5,62,15,52.7,263.5,223.2,40.3,Debit Card,New Customer
+111,28-02-2025,DMart South,Nashik,Kissan Tomato Ketchup 1kg,Food,Kissan,4,145,5,137.75,551,417.6,133.4,UPI,Member
+112,26-03-2025,DMart West,Solapur,Surf Excel Matic 2kg,Home Care,Surf Excel,2,410,0,410,820,590.4,229.6,Debit Card,Member
+113,05-06-2025,DMart North,Aurangabad,India Gate Basmati Rice 5kg,Grocery,India Gate,8,520,15,442,3536,2995.2,540.8,Credit Card,Member
+114,15-06-2025,DMart South,Aurangabad,Tata Salt 1kg,Grocery,Tata,1,28,5,26.6,26.6,20.16,6.44,Cash,Regular
+115,11-12-2025,DMart West,Solapur,Dove Soap 100g,Personal Care,Dove,1,62,20,49.6,49.6,44.64,4.96,Cash,Regular
+116,03-04-2025,DMart South,Navi Mumbai,Pampers Diapers M 30s,Baby Care,Pampers,8,650,0,650,5200,3744,1456,Credit Card,Regular
+117,20-06-2025,DMart West,Pune,Pampers Diapers M 30s,Baby Care,Pampers,6,650,5,617.5,3705,2808,897,UPI,Member
+118,06-12-2025,DMart North,Kolhapur,Tata Tea Gold 500g,Beverages,Tata,8,280,0,280,2240,1612.8,627.2,Cash,Member
+119,15-06-2025,DMart Central,Navi Mumbai,Tata Salt 1kg,Grocery,Tata,6,28,0,28,168,120.96,47.04,Cash,New Customer
+120,28-01-2025,DMart East,Kolhapur,Harpic Toilet Cleaner 1L,Home Care,Harpic,8,190,5,180.5,1444,1094.4,349.6,Debit Card,New Customer
+121,27-01-2025,DMart East,Aurangabad,Pampers Diapers M 30s,Baby Care,Pampers,8,650,20,520,4160,3744,416,UPI,Member
+122,15-01-2025,DMart South,Nashik,Nescafe Classic 100g,Beverages,Nescafe,8,310,0,310,2480,1785.6,694.4,UPI,Member
+123,28-07-2025,DMart Central,Nashik,Harpic Toilet Cleaner 1L,Home Care,Harpic,1,190,10,171,171,136.8,34.2,Cash,Member
+124,30-05-2025,DMart South,Aurangabad,India Gate Basmati Rice 5kg,Grocery,India Gate,3,520,5,494,1482,1123.2,358.8,Credit Card,Member
+125,10-10-2025,DMart East,Navi Mumbai,Aashirvaad  Atta 5kg,Baby Care,Pampers,4,650,5,617.5,2470,1872,598,UPI,New Customer
+126,05-02-2025,DMart West,Navi Mumbai,Dettol Handwash 250ml,Personal Care,Dettol,3,95,20,76,228,205.2,22.8,Debit Card,New Customer
+127,02-06-2025,DMart South,Solapur,Parle-G Biscuits 800g,Food,Parle,1,85,0,85,85,61.2,23.8,Credit Card,Regular
+128,20-06-2025,DMart South,Kolhapur,Nescafe Classic 100g,Beverages,Nescafe,8,310,0,310,2480,1785.6,694.4,Credit Card,Member
+129,03-05-2025,DMart South,Navi Mumbai,Britannia Bread 400g,Bakery,Britannia,4,45,15,38.25,153,129.6,23.4,UPI,Member
+130,31-08-2025,DMart North,Navi Mumbai,Fortune Sunflower Oil 1L,Grocery,Fortune,6,145,15,123.25,739.5,626.4,113.1,UPI,Member
+131,30-10-2025,DMart West,Pune,Fortune Sunflower Oil 1L,Grocery,Fortune,3,145,10,130.5,391.5,313.2,78.3,Credit Card,Regular
+132,15-03-2025,DMart North,Mumbai,Dettol Handwash 250ml,Personal Care,Dettol,8,95,0,95,760,547.2,212.8,Cash,Member
+133,21-12-2025,DMart North,Pune,Parle-G Biscuits 800g,Food,Parle,6,85,10,76.5,459,367.2,91.8,Debit Card,New Customer
+134,17-11-2025,DMart North,Kolhapur,Harpic Toilet Cleaner 1L,Home Care,Harpic,7,190,0,190,1330,957.6,372.4,Cash,New Customer
+135,17-12-2025,DMart West,Nashik,Tata Salt 1kg,Grocery,Tata,4,28,15,23.8,95.2,80.64,14.56,Cash,Member
+136,27-03-2025,DMart West,Nagpur,India Gate Basmati Rice 5kg,Grocery,India Gate,2,520,5,494,988,748.8,239.2,Cash,Member
+137,11-07-2025,DMart North,Mumbai,Fortune Sunflower Oil 1L,Grocery,Fortune,5,145,0,145,725,522,203,UPI,New Customer
+138,31-03-2025,DMart Central,Solapur,Tata Tea Gold 500g,Beverages,Tata,3,280,0,280,840,604.8,235.2,Credit Card,New Customer
+139,15-03-2025,DMart East,Amravati,Dove Soap 100g,Personal Care,Dove,8,62,10,55.8,446.4,357.12,89.28,Debit Card,Member
+140,27-08-2025,DMart West,Kolhapur,Parle-G Biscuits 800g,Food,Parle,1,85,20,68,68,61.2,6.8,UPI,Regular
+141,03-06-2025,DMart North,Aurangabad,Nescafe Classic 100g,Beverages,Nescafe,6,310,10,279,1674,1339.2,334.8,Credit Card,Member
+142,05-09-2025,DMart Central,Nashik,Colgate MaxFresh 150g,Personal Care,Colgate,7,125,20,100,700,630,70,Credit Card,New Customer
+143,01-06-2025,DMart Central,Navi Mumbai,Lay's Classic Salted 52g,Snacks,Lay's,5,25,15,21.25,106.25,90,16.25,Debit Card,Regular
+144,12-09-2025,DMart West,Nashik,Kissan Tomato Ketchup 1kg,Food,Kissan,1,145,10,130.5,130.5,104.4,26.1,Debit Card,Regular
+145,04-12-2025,DMart East,Pune,Colgate MaxFresh 150g,Personal Care,Colgate,5,125,15,106.25,531.25,450,81.25,Cash,Member
+146,06-07-2025,DMart East,Pune,Nescafe Classic 100g,Beverages,Nescafe,1,310,10,279,279,223.2,55.8,Debit Card,Member
+147,09-03-2025,DMart South,Thane,Tata Tea Gold 500g,Beverages,Tata,3,280,0,280,840,604.8,235.2,Debit Card,Regular
+148,01-06-2025,DMart West,Pune,Parle-G Biscuits 800g,Food,Parle,8,85,20,68,544,489.6,54.4,Credit Card,Regular
+149,13-12-2025,DMart North,Kolhapur,Surf Excel Matic 2kg,Home Care,Surf Excel,4,410,20,328,1312,1180.8,131.2,Debit Card,Regular
+150,02-10-2025,DMart Central,Amravati,Coca-Cola 750ml,Beverages,Coca-Cola,1,45,0,-100,45,32.4,12.6,Debit Card,New Customer
+151,23-11-2025,DMart West,Pune,Parle-G Biscuits 800g,Food,Parle,7,85,20,68,476,428.4,47.6,UPI,Member
+152,24-04-2025,DMart Central,Amravati,Aashirvaad Atta 5kg,Grocery,Aashirvaad,6,280,10,252,1512,1209.6,302.4,Debit Card,New Customer
+153,24-01-2025,DMart Central,Aurangabad,Tata Tea Gold 500g,Beverages,Tata,2,280,0,280,560,403.2,156.8,Credit Card,Regular
+154,11-03-2025,DMart North,Amravati,India Gate Basmati Rice 5kg,Grocery,India Gate,4,520,10,468,1872,1497.6,374.4,Debit Card,New Customer
+155,21-03-2025,DMart North,Pune,Harpic Toilet Cleaner 1L,Home Care,Harpic,7,190,10,171,1197,957.6,239.4,Credit Card,New Customer
+156,20-12-2025,DMart West,Nashik,Tata Tea Gold 500g,Beverages,Tata,5,280,0,280,1400,1008,392,Credit Card,Member
+157,18-12-2025,DMart West,Kolhapur,Dove Soap 100g,Personal Care,Dove,6,62,0,62,372,267.84,104.16,Debit Card,Regular
+158,04-03-2025,DMart North,Pune,Coca-Cola 750ml,Beverages,Coca-Cola,5,45,0,45,225,162,63,UPI,New Customer
+159,20-06-2025,DMart East,Mumbai,Maggi 2-Minute Noodles 280g,Food,Nestle,1,70,0,70,70,50.4,19.6,UPI,Regular
+160,21-04-2025,DMart East,Thane,Harpic Toilet Cleaner 1L,Home Care,Harpic,4,190,10,171,684,547.2,136.8,UPI,New Customer
+161,16-03-2025,DMart East,Kolhapur,Aashirvaad Atta 5kg,Grocery,Aashirvaad,5,280,20,224,1120,1008,112,Debit Card,Regular
+162,08-01-2025,DMart West,Nashik,India Gate Basmati Rice 5kg,Grocery,India Gate,1,520,0,520,520,374.4,145.6,Debit Card,Regular
+163,06-03-2025,DMart North,Kolhapur,Vim Dishwash Bar 200g,Home Care,Vim,5,35,0,35,175,126,49,Cash,New Customer
+164,05-07-2025,DMart South,Solapur,Tata Salt 1kg,Grocery,Tata,8,28,5,26.6,212.8,161.28,51.52,Cash,Member
+165,23-01-2025,DMart South,Aurangabad,Dettol Handwash 250ml,Personal Care,Dettol,4,95,10,85.5,342,273.6,68.4,Credit Card,New Customer
+166,25-07-2025,DMart North,Pune,Aashirvaad Atta 5kg,Grocery,Aashirvaad,1,280,5,266,266,201.6,64.4,Credit Card,New Customer
+167,14-06-2025,DMart South,Mumbai,Nescafe Classic 100g,Beverages,Nescafe,2,310,0,310,620,446.4,173.6,Cash,Regular
+168,02-11-2025,DMart South,Aurangabad,Parle-G Biscuits 800g,Food,Parle,6,85,5,80.75,484.5,367.2,117.3,Credit Card,New Customer
+169,26-12-2025,DMart Central,Kolhapur,Maggi 2-Minute Noodles 280g,Food,Nestle,7,70,0,70,490,352.8,137.2,UPI,Member
+170,23-06-2025,DMart North,Navi Mumbai,Nescafe Classic 100g,Beverages,Nescafe,4,310,5,294.5,1178,892.8,285.2,Credit Card,New Customer
+171,10-06-2025,DMart West,Thane,India Gate Basmati Rice 5kg,Grocery,India Gate,6,520,5,494,2964,2246.4,717.6,UPI,New Customer
+172,13-02-2025,DMart Central,Navi Mumbai,Pampers Diapers M 30s,Baby Care,Pampers,2,650,0,650,1300,936,364,Cash,New Customer
+173,31-01-2025,DMart South,Kolhapur,Lay's Classic Salted 52g,Snacks,Lay's,3,25,10,22.5,67.5,54,13.5,Debit Card,New Customer
+174,07-12-2025,DMart North,Nagpur,India Gate Basmati Rice 5kg,Grocery,India Gate,7,520,0,520,3640,2620.8,1019.2,Debit Card,New Customer
+175,23-10-2025,DMart South,Nashik,Amul Taaza Milk 1L,,Amul,6,62,0,62,372,267.84,104.16,UPI,New Customer
+176,25-02-2025,DMart West,Kolhapur,Pampers Diapers M 30s,Baby Care,Pampers,4,650,20,520,2080,1872,208,Debit Card,Regular
+177,08-08-2025,DMart South,Solapur,Parle-G Biscuits 800g,Food,Parle,4,85,20,68,272,244.8,27.2,Cash,New Customer
+178,20-05-2025,DMart West,Thane,Parle-G Biscuits 800g,Food,Parle,1,85,0,85,85,61.2,23.8,Debit Card,Regular
+179,03-12-2025,DMart North,Pune,Vim Dishwash Bar 200g,Home Care,Vim,3,35,10,31.5,94.5,75.6,18.9,UPI,New Customer
+180,29-09-2025,DMart East,Navi Mumbai,Aashirvaad Atta 5kg,Grocery,Aashirvaad,2,280,15,238,476,403.2,72.8,Credit Card,Member
+181,09-06-2025,DMart West,Solapur,Britannia Bread 400g,Bakery,Britannia,3,45,0,45,135,97.2,37.8,Cash,Regular
+182,13-11-2025,DMart Central,Pune,Surf Excel Matic 2kg,Home Care,Surf Excel,3,410,20,328,984,885.6,98.4,Debit Card,Member
+183,15-08-2025,DMart North,Aurangabad,Tata Tea Gold 500g,Beverages,Tata,8,280,10,252,2016,1612.8,403.2,UPI,New Customer
+184,26-02-2025,DMart West,Solapur,India Gate Basmati Rice 5kg,Grocery,India Gate,6,520,5,494,2964,2246.4,717.6,Credit Card,New Customer
+185,22-07-2025,DMart South,Nagpur,Amul Taaza Milk 1L,Dairy,Amul,1,62,0,62,62,44.64,17.36,Cash,Regular
+186,12-03-2025,DMart West,Aurangabad,Amul Taaza Milk 1L,Dairy,Amul,4,62,20,49.6,198.4,178.56,19.84,Debit Card,Regular
+187,09-08-2025,DMart East,Mumbai,Aashirvaad Atta 5kg,Grocery,Aashirvaad,8,280,15,238,1904,1612.8,291.2,Credit Card,New Customer
+188,23-07-2025,DMart Central,Navi Mumbai,Dove Soap 100g,Personal Care,Dove,6,62,0,62,372,267.84,104.16,Cash,Member
+189,08-08-2025,DMart South,Navi Mumbai,Tata Salt 1kg,Grocery,Tata,6,28,10,25.2,151.2,120.96,30.24,Credit Card,Member
+190,16-06-2025,DMart East,Solapur,India Gate Basmati Rice 5kg,Grocery,India Gate,7,520,0,520,3640,2620.8,1019.2,Credit Card,New Customer
+191,24-02-2025,DMart East,Navi Mumbai,Lay's Classic Salted 52g,Snacks,Lay's,2,25,5,23.75,47.5,36,11.5,Credit Card,New Customer
+192,08-06-2025,DMart West,Nashik,Tata Salt 1kg,Grocery,Tata,7,28,20,22.4,156.8,141.12,15.68,Debit Card,Regular
+193,19-09-2025,DMart East,Thane,Tata Salt 1kg,Grocery,Tata,2,28,10,25.2,50.4,40.32,10.08,Debit Card,New Customer
+194,16-03-2025,DMart West,Nashik,Surf Excel Matic 2kg,Home Care,Surf Excel,4,410,0,410,1640,1180.8,459.2,UPI,New Customer
+195,18-11-2025,DMart North,Amravati,Surf Excel Matic 2kg,Home Care,Surf Excel,2,410,0,410,820,590.4,229.6,Credit Card,New Customer
+196,18-11-2025,DMart West,Mumbai,Kissan Tomato Ketchup 1kg,Food,Kissan,6,145,20,116,696,626.4,69.6,Credit Card,Regular
+197,05-06-2025,DMart West,Solapur,Pampers Diapers M 30s,Baby Care,Pampers,8,650,15,552.5,4420,3744,676,Cash,Member
+198,25-08-2025,DMart North,Nagpur,Dettol Handwash 250ml,Personal Care,Dettol,2,95,0,95,190,136.8,53.2,Cash,Member
+199,16-02-2025,DMart South,Solapur,Amul Taaza Milk 1L,Dairy,Amul,2,62,15,52.7,105.4,89.28,16.12,Credit Card,Member
+200,20-10-2025,DMart East,Thane,Kissan Tomato Ketchup 1kg,Food,Kissan,1,145,5,137.75,137.75,104.4,33.35,Credit Card,New Customer
+201,22-02-2025,DMart West,Pune,Surf Excel Matic 2kg,Home Care,Surf Excel,1,410,5,389.5,389.5,295.2,94.3,UPI,Regular
+202,26-09-2025,DMart South,Solapur,Dove Soap 100g,Personal Care,Dove,8,62,5,58.9,471.2,357.12,114.08,UPI,Member
+203,29-07-2025,DMart West,Solapur,Lay's Classic Salted 52g,Snacks,Lay's,5,25,5,23.75,118.75,90,28.75,Cash,New Customer
+204,18-02-2025,DMart South,Navi Mumbai,Britannia Bread 400g,Bakery,Britannia,2,45,0,45,90,64.8,25.2,Debit Card,Member
+205,11-02-2025,DMart South,Mumbai,Maggi 2-Minute Noodles 280g,Food,Nestle,3,70,0,70,210,151.2,58.8,Debit Card,Member
+206,29-12-2025,DMart Central,Aurangabad,Coca-Cola 750ml,Beverages,Coca-Cola,3,45,10,40.5,121.5,97.2,24.3,Credit Card,New Customer
+207,26-12-2025,DMart South,Pune,Britannia Bread 400g,Bakery,Britannia,3,45,15,38.25,114.75,97.2,17.55,Credit Card,New Customer
+208,08-06-2025,DMart East,Nashik,Lay's Classic Salted 52g,Snacks,Lay's,1,25,0,25,25,18,7,Debit Card,Member
+209,21-03-2025,DMart Central,Aurangabad,Colgate MaxFresh 150g,Personal Care,Colgate,4,125,0,125,500,360,140,Cash,New Customer
+210,22-06-2025,DMart South,Mumbai,Harpic Toilet Cleaner 1L,Home Care,Harpic,1,190,15,161.5,161.5,136.8,24.7,Credit Card,Regular
+211,21-12-2025,DMart South,Mumbai,Vim Dishwash Bar 200g,Home Care,Vim,3,35,20,28,84,75.6,8.4,Credit Card,Regular
+212,02-05-2025,DMart North,Solapur,Tata Tea Gold 500g,Beverages,Tata,6,280,15,238,1428,1209.6,218.4,Debit Card,New Customer
+213,03-05-2025,DMart West,Amravati,Nescafe Classic 100g,Beverages,Nescafe,4,310,10,279,1116,892.8,223.2,UPI,Member
+214,25-05-2025,DMart North,Kolhapur,Kissan Tomato Ketchup 1kg,Food,Kissan,8,145,5,137.75,1102,835.2,266.8,Credit Card,Regular
+215,09-05-2025,DMart Central,Amravati,Colgate MaxFresh 150g,Personal Care,Colgate,3,125,20,100,300,270,30,Debit Card,New Customer
+216,12-02-2025,DMart East,Aurangabad,India Gate Basmati Rice 5kg,Grocery,India Gate,2,520,0,520,1040,748.8,291.2,Credit Card,New Customer
+217,24-04-2025,DMart North,Thane,Surf Excel Matic 2kg,Home Care,Surf Excel,7,410,0,410,2870,2066.4,803.6,Cash,Member
+218,11-07-2025,DMart East,Navi Mumbai,Fortune Sunflower Oil 1L,Grocery,Fortune,7,145,10,130.5,913.5,730.8,182.7,Cash,Member
+219,20-02-2025,DMart West,Mumbai,Dove Soap 100g,Personal Care,Dove,1,62,0,62,62,44.64,17.36,UPI,Regular
+220,13-03-2025,DMart North,Amravati,Amul Taaza Milk 1L,Dairy,Amul,8,62,15,52.7,421.6,357.12,64.48,Cash,Regular
+221,18-03-2025,DMart South,Solapur,Aashirvaad Atta 5kg,Grocery,Aashirvaad,5,280,0,280,1400,1008,392,Credit Card,Regular
+222,04-03-2025,DMart Central,Nashik,Amul Taaza Milk 1L,Dairy,Amul,4,62,0,62,248,178.56,69.44,Credit Card,New Customer
+223,26-02-2025,DMart North,Solapur,Maggi 2-Minute Noodles 280g,Food,Nestle,8,70,0,70,560,403.2,156.8,Cash,New Customer
+224,15-03-2025,DMart West,Navi Mumbai,Dettol Handwash 250ml,Personal Care,Dettol,4,95,15,80.75,323,273.6,49.4,Cash,New Customer
+225,02-08-2025,DMart East,Pune,Lay's Classic Salted 52g,Snacks,Lay's,4,25,10,22.5,90,72,18,Debit Card,Regular
+226,29-08-2025,DMart Central,Navi Mumbai,Dettol Handwash 250ml,Personal Care,Dettol,1,95,5,90.25,90.25,68.4,21.85,Debit Card,Member
+227,04-02-2025,DMart West,Nashik,Aashirvaad Atta 5kg,Grocery,Aashirvaad,6,280,20,224,1344,1209.6,134.4,Cash,New Customer
+228,30-06-2025,DMart South,Thane,Britannia Bread 400g,Bakery,Britannia,3,45,0,45,135,97.2,37.8,UPI,New Customer
+229,04-04-2025,DMart East,Pune,Nescafe Classic 100g,Beverages,Nescafe,8,310,15,263.5,2108,1785.6,322.4,Credit Card,Regular
+230,13-04-2025,DMart Central,Thane,Amul Taaza Milk 1L,Dairy,Amul,4,62,0,62,248,178.56,69.44,Debit Card,New Customer
+231,19-01-2025,DMart East,Aurangabad,Coca-Cola 750ml,Beverages,Coca-Cola,8,45,0,45,360,259.2,100.8,Debit Card,Regular
+232,08-07-2025,DMart North,Navi Mumbai,Britannia Bread 400g,Bakery,Britannia,5,45,0,45,225,162,63,Credit Card,Member
+233,21-12-2025,DMart North,Thane,Britannia Bread 400g,Bakery,Britannia,3,45,5,42.75,128.25,97.2,31.05,Debit Card,Regular
+234,05-11-2025,DMart East,Kolhapur,Tata Tea Gold 500g,Beverages,Tata,2,280,5,266,532,403.2,128.8,Debit Card,Member
+235,05-12-2025,DMart West,Aurangabad,India Gate Basmati Rice 5kg,Grocery,India Gate,2,520,0,520,1040,748.8,291.2,Credit Card,New Customer
+236,16-08-2025,DMart West,Amravati,Tata Tea Gold 500g,Beverages,Tata,3,280,15,238,714,604.8,109.2,Cash,New Customer
+237,24-11-2025,DMart Central,Pune,Lay's Classic Salted 52g,Snacks,Lay's,7,25,0,25,175,126,49,Credit Card,Member
+238,15-03-2025,DMart South,Amravati,Dettol Handwash 250ml,Personal Care,Dettol,3,95,0,95,285,205.2,79.8,Cash,Regular
+239,27-11-2025,DMart West,Thane,Tata Salt 1kg,Grocery,Tata,4,28,20,22.4,89.6,80.64,8.96,Credit Card,New Customer
+240,19-08-2025,DMart West,Thane,Fortune Sunflower Oil 1L,Grocery,Fortune,3,145,15,123.25,369.75,313.2,56.55,Credit Card,Regular
+241,07-07-2025,DMart North,Thane,Kissan Tomato Ketchup 1kg,Food,Kissan,3,145,10,130.5,391.5,313.2,78.3,Debit Card,Regular
+242,06-04-2025,DMart North,Kolhapur,India Gate Basmati Rice 5kg,Grocery,India Gate,1,520,15,442,442,374.4,67.6,Credit Card,New Customer
+243,14-05-2025,DMart North,Nashik,India Gate Basmati Rice 5kg,Grocery,India Gate,5,520,20,416,2080,1872,208,Debit Card,New Customer
+244,11-03-2025,DMart Central,Amravati,Pampers Diapers M 30s,Baby Care,Pampers,4,650,0,650,2600,1872,728,UPI,New Customer
+245,16-12-2025,DMart West,Thane,Nescafe Classic 100g,Beverages,Nescafe,2,310,20,248,496,446.4,49.6,Cash,New Customer
+246,22-03-2025,DMart East,Thane,Harpic Toilet Cleaner 1L,Home Care,Harpic,5,190,0,190,950,684,266,UPI,Regular
+247,10-09-2025,DMart Central,Thane,Colgate MaxFresh 150g,Personal Care,Colgate,3,125,0,125,375,270,105,Debit Card,Member
+248,14-02-2025,DMart Central,Aurangabad,Harpic Toilet Cleaner 1L,Home Care,Harpic,3,190,10,171,513,410.4,102.6,Credit Card,New Customer
+249,29-07-2025,DMart South,Pune,Pampers Diapers M 30s,Baby Care,Pampers,7,650,20,520,3640,3276,364,UPI,Member
+250,15-12-2025,DMart South,Thane,Tata Salt 1kg,Grocery,Tata,8,28,5,26.6,212.8,161.28,51.52,UPI,New Customer
+251,08-03-2025,DMart North,Kolhapur,Kissan Tomato Ketchup 1kg,Food,Kissan,3,145,20,116,348,313.2,34.8,Cash,Regular
+252,26-03-2025,DMart East,Thane,Dettol Handwash 250ml,Personal Care,Dettol,3,95,0,95,285,205.2,79.8,UPI,Member
+253,10-02-2025,DMart West,Nashik,Dettol Handwash 250ml,Personal Care,Dettol,5,95,20,76,380,342,38,Debit Card,Regular
+254,25-11-2025,DMart East,Solapur,Amul Taaza Milk 1L,Dairy,Amul,2,62,10,55.8,111.6,89.28,22.32,UPI,Regular
+255,16-10-2025,DMart Central,Nagpur,Maggi 2-Minute Noodles 280g,Food,Nestle,6,70,20,56,336,302.4,33.6,Cash,Regular
+256,18-04-2025,DMart South,Navi Mumbai,Kissan Tomato Ketchup 1kg,Food,Kissan,5,145,15,123.25,616.25,522,94.25,Cash,Member
+257,04-06-2025,DMart North,Nashik,Harpic Toilet Cleaner 1L,Home Care,Harpic,5,190,15,161.5,807.5,684,123.5,Credit Card,Member
+258,31-01-2025,DMart East,Amravati,Nescafe Classic 100g,Beverages,Nescafe,2,310,15,263.5,527,446.4,80.6,Credit Card,Member
+259,07-11-2025,DMart East,Thane,Nescafe Classic 100g,Beverages,Nescafe,4,310,0,310,1240,892.8,347.2,Debit Card,New Customer
+260,09-07-2025,DMart South,Kolhapur,Lay's Classic Salted 52g,Snacks,Lay's,7,25,0,25,175,126,49,Cash,Member
+261,17-05-2025,DMart North,Nashik,Dove Soap 100g,Personal Care,Dove,8,62,0,62,496,357.12,138.88,UPI,Regular
+262,12-11-2025,DMart North,Nashik,Fortune Sunflower Oil 1L,Grocery,Fortune,5,145,5,137.75,688.75,522,166.75,UPI,Member
+263,23-03-2025,DMart North,Kolhapur,Kissan Tomato Ketchup 1kg,Food,Kissan,6,145,0,145,870,626.4,243.6,Credit Card,Member
+264,16-02-2025,DMart North,Kolhapur,Amul Taaza Milk 1L,Dairy,Amul,8,62,0,62,496,357.12,138.88,Credit Card,Regular
+265,26-01-2025,DMart West,Amravati,Colgate MaxFresh 150g,Personal Care,Colgate,6,125,0,125,750,540,210,Credit Card,Member
+266,25-02-2025,DMart North,Mumbai,Harpic Toilet Cleaner 1L,Home Care,Harpic,1,190,20,152,152,136.8,15.2,Debit Card,New Customer
+267,24-01-2025,DMart North,Nagpur,Lay's Classic Salted 52g,Snacks,Lay's,7,25,0,25,175,126,49,UPI,Member
+268,17-07-2025,DMart South,Amravati,Harpic Toilet Cleaner 1L,Home Care,Harpic,5,190,0,190,950,684,266,Debit Card,New Customer
+269,19-02-2025,DMart North,Thane,Maggi 2-Minute Noodles 280g,Food,Nestle,2,70,0,70,140,100.8,39.2,Debit Card,New Customer
+270,05-11-2025,DMart South,Navi Mumbai,Lay's Classic Salted 52g,Snacks,Lay's,3,25,0,25,75,54,21,Cash,Regular
+271,20-06-2025,DMart North,Kolhapur,Fortune Sunflower Oil 1L,Grocery,Fortune,3,145,15,123.25,369.75,313.2,56.55,Credit Card,Regular
+272,10-11-2025,DMart West,Mumbai,Maggi 2-Minute Noodles 280g,Food,Nestle,3,70,0,70,210,151.2,58.8,Credit Card,New Customer
+273,18-09-2025,DMart South,Amravati,Amul Taaza Milk 1L,Dairy,Amul,6,62,10,55.8,334.8,267.84,66.96,Debit Card,Member
+274,11-12-2025,DMart Central,Navi Mumbai,Aashirvaad Atta 5kg,Grocery,Aashirvaad,6,280,0,280,1680,1209.6,470.4,Debit Card,New Customer
+275,02-12-2025,DMart South,Solapur,Aashirvaad Atta 5kg,Grocery,Aashirvaad,8,280,0,280,2240,1612.8,627.2,UPI,New Customer
+276,26-09-2025,DMart South,Navi Mumbai,Fortune Sunflower Oil 1L,Grocery,Fortune,8,145,0,145,1160,835.2,324.8,UPI,New Customer
+277,25-12-2025,DMart Central,Nashik,Dove Soap 100g,Personal Care,Dove,1,62,10,55.8,55.8,44.64,11.16,Cash,Member
+278,31-07-2025,DMart East,Navi Mumbai,Britannia Bread 400g,Bakery,Britannia,7,45,0,45,315,226.8,88.2,Credit Card,New Customer
+279,17-04-2025,DMart South,Thane,Fortune Sunflower Oil 1L,Grocery,Fortune,3,145,10,130.5,391.5,313.2,78.3,Credit Card,New Customer
+280,24-08-2025,DMart South,Thane,Coca-Cola 750ml,Beverages,Coca-Cola,6,45,0,45,270,194.4,75.6,Debit Card,New Customer
+281,07-05-2025,DMart West,Kolhapur,Parle-G Biscuits 800g,Food,Parle,8,85,0,85,680,489.6,190.4,Debit Card,Regular
+282,17-04-2025,DMart North,Thane,Amul Taaza Milk 1L,Dairy,Amul,5,62,15,52.7,263.5,223.2,40.3,Credit Card,Member
+283,04-03-2025,DMart South,Kolhapur,Harpic Toilet Cleaner 1L,Home Care,Harpic,5,190,0,190,950,684,266,Credit Card,Member
+284,22-01-2025,DMart West,Pune,Lay's Classic Salted 52g,Snacks,Lay's,3,25,0,25,75,54,21,Debit Card,Member
+285,14-04-2025,DMart South,Aurangabad,Parle-G Biscuits 800g,Food,Parle,8,85,0,85,680,489.6,190.4,Debit Card,Regular
+286,26-01-2025,DMart South,Nashik,India Gate Basmati Rice 5kg,Grocery,India Gate,4,520,0,520,2080,1497.6,582.4,UPI,Regular
+287,30-08-2025,DMart Central,Mumbai,India Gate Basmati Rice 5kg,Grocery,India Gate,7,520,0,520,3640,2620.8,1019.2,Cash,New Customer
+288,01-09-2025,DMart North,Nashik,Vim Dishwash Bar 200g,Home Care,Vim,7,35,15,29.75,208.25,176.4,31.85,Debit Card,Member
+289,15-02-2025,DMart South,Nashik,Amul Taaza Milk 1L,Dairy,Amul,1,62,20,49.6,49.6,44.64,4.96,Cash,Regular
+290,23-07-2025,DMart North,Mumbai,Tata Tea Gold 500g,Beverages,Tata,3,280,0,280,840,604.8,235.2,Debit Card,Regular
+291,05-11-2025,DMart Central,Thane,Aashirvaad Atta 5kg,Grocery,Aashirvaad,5,280,10,252,1260,1008,252,Debit Card,Member
+292,16-09-2025,DMart North,Aurangabad,Harpic Toilet Cleaner 1L,Home Care,Harpic,8,190,0,190,1520,1094.4,425.6,UPI,Regular
+293,23-08-2025,DMart West,Mumbai,Britannia Bread 400g,Bakery,Britannia,3,45,15,38.25,114.75,97.2,17.55,Cash,New Customer
+294,12-12-2025,DMart East,Mumbai,Britannia Bread 400g,Bakery,Britannia,5,45,10,40.5,202.5,162,40.5,Credit Card,Member
+295,25-07-2025,DMart Central,Mumbai,Dettol Handwash 250ml,Personal Care,Dettol,6,95,0,95,570,410.4,159.6,UPI,Member
+296,14-05-2025,DMart North,Nashik,Britannia Bread 400g,Bakery,Britannia,4,45,0,45,180,129.6,50.4,Credit Card,Member
+297,21-10-2025,DMart Central,Aurangabad,Britannia Bread 400g,Bakery,Britannia,5,45,10,40.5,202.5,162,40.5,Debit Card,New Customer
+298,02-03-2025,DMart North,Aurangabad,Dove Soap 100g,Personal Care,Dove,1,62,15,52.7,52.7,44.64,8.06,UPI,Member
+299,02-03-2025,DMart West,Thane,Dettol Handwash 250ml,Personal Care,Dettol,5,95,15,80.75,403.75,342,61.75,UPI,Regular
+300,21-08-2025,DMart South,Thane,Surf Excel Matic 2kg,Home Care,Surf Excel,8,410,0,410,3280,2361.6,918.4,Credit Card,New Customer
+301,03-10-2025,DMart East,Nashik,Harpic Toilet Cleaner 1L,Home Care,Harpic,8,190,20,152,1216,1094.4,121.6,Cash,New Customer
+302,16-10-2025,DMart Central,Nagpur,Nescafe Classic 100g,Beverages,Nescafe,6,310,0,310,1860,1339.2,520.8,UPI,New Customer
+303,17-06-2025,DMart South,Amravati,Harpic Toilet Cleaner 1L,Home Care,Harpic,3,190,0,190,570,410.4,159.6,Cash,New Customer
+304,19-09-2025,DMart North,Nagpur,Colgate MaxFresh 150g,Personal Care,Colgate,8,125,0,125,1000,720,280,Credit Card,Regular
+305,16-10-2025,DMart Central,Kolhapur,Dettol Handwash 250ml,Personal Care,Dettol,7,95,5,90.25,631.75,478.8,152.95,Credit Card,New Customer
+306,11-05-2025,DMart Central,Nashik,Amul Taaza Milk 1L,Dairy,Amul,1,62,5,58.9,58.9,44.64,14.26,Cash,Regular
+307,02-02-2025,DMart South,Nagpur,Tata Tea Gold 500g,Beverages,Tata,6,280,15,238,1428,1209.6,218.4,Cash,Member
+308,03-04-2025,DMart East,Navi Mumbai,Fortune Sunflower Oil 1L,Grocery,Fortune,5,145,5,137.75,688.75,522,166.75,Debit Card,Member
+309,11-02-2025,DMart South,Mumbai,Nescafe Classic 100g,Beverages,Nescafe,7,310,5,294.5,2061.5,1562.4,499.1,Debit Card,Regular
+310,07-03-2025,DMart East,Nagpur,Vim Dishwash Bar 200g,Home Care,Vim,7,35,10,31.5,220.5,176.4,44.1,Cash,Member
+311,14-07-2025,DMart East,Nashik,Nescafe Classic 100g,Beverages,Nescafe,7,310,10,279,1953,1562.4,390.6,Credit Card,Member
+312,27-02-2025,DMart Central,Navi Mumbai,Surf Excel Matic 2kg,Home Care,Surf Excel,5,410,0,410,2050,1476,574,Cash,Regular
+313,01-11-2025,DMart Central,Amravati,Colgate MaxFresh 150g,Personal Care,Colgate,2,125,0,125,250,180,70,Cash,Regular
+314,30-04-2025,DMart South,Nashik,Fortune Sunflower Oil 1L,Grocery,Fortune,7,145,5,137.75,964.25,730.8,233.45,Cash,Regular
+315,22-10-2025,DMart West,Solapur,Dettol Handwash 250ml,Personal Care,Dettol,5,95,0,95,475,342,133,Debit Card,Regular
+316,24-09-2025,DMart East,Navi Mumbai,Amul Taaza Milk 1L,Dairy,Amul,3,62,15,52.7,158.1,133.92,24.18,Debit Card,Member
+317,14-12-2025,DMart North,Kolhapur,Fortune Sunflower Oil 1L,Grocery,Fortune,3,145,15,123.25,369.75,313.2,56.55,Credit Card,Regular
+318,26-09-2025,DMart West,Navi Mumbai,Lay's Classic Salted 52g,Snacks,Lay's,7,25,20,20,140,126,14,Credit Card,Regular
+319,03-10-2025,DMart North,Nashik,Amul Taaza Milk 1L,Dairy,Amul,7,62,0,62,434,312.48,121.52,UPI,Member
+320,15-10-2025,DMart North,Navi Mumbai,Surf Excel Matic 2kg,Home Care,Surf Excel,8,410,0,410,3280,2361.6,918.4,UPI,Member
+321,19-06-2025,DMart Central,Amravati,Dove Soap 100g,Personal Care,Dove,5,62,0,62,310,223.2,86.8,Debit Card,Regular
+322,18-05-2025,DMart North,Solapur,Harpic Toilet Cleaner 1L,Home Care,Harpic,4,190,0,190,760,547.2,212.8,Cash,Regular
+323,17-04-2025,DMart West,Aurangabad,Colgate MaxFresh 150g,Personal Care,Colgate,4,125,5,118.75,475,360,115,Cash,Regular
+324,03-09-2025,DMart East,Solapur,Colgate MaxFresh 150g,Personal Care,Colgate,2,125,15,106.25,212.5,180,32.5,UPI,Member
+325,25-05-2025,DMart North,Amravati,Dove Soap 100g,Personal Care,Dove,6,62,20,49.6,297.6,267.84,29.76,Debit Card,Member
+326,12-09-2025,DMart North,Pune,Parle-G Biscuits 800g,Food,Parle,6,85,10,76.5,459,367.2,91.8,Credit Card,Member
+327,31-07-2025,DMart Central,Solapur,Colgate MaxFresh 150g,Personal Care,Colgate,6,125,0,125,750,540,210,UPI,New Customer
+328,11-10-2025,DMart South,Solapur,Surf Excel Matic 2kg,Home Care,Surf Excel,1,410,0,410,410,295.2,114.8,Credit Card,Member
+329,28-04-2025,DMart North,Solapur,Surf Excel Matic 2kg,Home Care,Surf Excel,4,410,0,410,1640,1180.8,459.2,UPI,Member
+330,08-09-2025,DMart North,Amravati,Harpic Toilet Cleaner 1L,Home Care,Harpic,6,190,0,190,1140,820.8,319.2,UPI,New Customer
+331,07-10-2025,DMart North,Mumbai,Lay's Classic Salted 52g,Snacks,Lay's,3,25,0,25,75,54,21,Cash,New Customer
+332,09-12-2025,DMart Central,Nagpur,Fortune Sunflower Oil 1L,Grocery,Fortune,2,145,20,116,232,208.8,23.2,Credit Card,Regular
+333,19-03-2025,DMart Central,Nashik,Dove Soap 100g,Personal Care,Dove,2,62,15,52.7,105.4,89.28,16.12,Credit Card,Member
+334,07-09-2025,DMart Central,Nagpur,Fortune Sunflower Oil 1L,Grocery,Fortune,8,145,15,123.25,986,835.2,150.8,Credit Card,Regular
+335,27-05-2025,DMart Central,Kolhapur,Aashirvaad Atta 5kg,Grocery,Aashirvaad,5,280,10,252,1260,1008,252,Credit Card,Regular
+336,18-03-2025,DMart East,Nashik,India Gate Basmati Rice 5kg,Grocery,India Gate,2,520,10,468,936,748.8,187.2,Debit Card,Member
+337,11-07-2025,DMart North,Amravati,Parle-G Biscuits 800g,Food,Parle,7,85,0,85,595,428.4,166.6,UPI,New Customer
+338,11-02-2025,DMart Central,Pune,Dove Soap 100g,Personal Care,Dove,5,62,15,52.7,263.5,223.2,40.3,Credit Card,Member
+339,23-11-2025,DMart Central,Mumbai,Coca-Cola 750ml,Beverages,Coca-Cola,8,45,0,45,360,259.2,100.8,Cash,Member
+340,18-02-2025,DMart South,Nagpur,Tata Tea Gold 500g,Beverages,Tata,6,280,10,252,1512,1209.6,302.4,UPI,Regular
+341,24-01-2025,DMart Central,Aurangabad,Kissan Tomato Ketchup 1kg,Food,Kissan,8,145,0,145,1160,835.2,324.8,Cash,Regular
+342,28-10-2025,DMart East,Navi Mumbai,Britannia Bread 400g,Bakery,Britannia,1,45,0,45,45,32.4,12.6,Cash,Member
+343,19-07-2025,DMart South,Thane,Vim Dishwash Bar 200g,Home Care,Vim,4,35,10,31.5,126,100.8,25.2,Credit Card,New Customer
+344,27-06-2025,DMart Central,Pune,Surf Excel Matic 2kg,Home Care,Surf Excel,2,410,10,369,738,590.4,147.6,Credit Card,Regular
+345,11-11-2025,DMart South,Navi Mumbai,Tata Salt 1kg,Grocery,Tata,6,28,10,25.2,151.2,120.96,30.24,Debit Card,Regular
+346,27-04-2025,DMart West,Kolhapur,Parle-G Biscuits 800g,Food,Parle,8,85,5,80.75,646,489.6,156.4,Credit Card,Member
+347,13-11-2025,DMart West,Nashik,Vim Dishwash Bar 200g,Home Care,Vim,7,35,0,35,245,176.4,68.6,Cash,Regular
+348,31-12-2025,DMart East,Navi Mumbai,Parle-G Biscuits 800g,Food,Parle,3,85,5,80.75,242.25,183.6,58.65,Debit Card,Member
+349,07-06-2025,DMart North,Thane,India Gate Basmati Rice 5kg,Grocery,India Gate,2,520,0,520,1040,748.8,291.2,Debit Card,Regular
+350,09-08-2025,DMart North,Kolhapur,Surf Excel Matic 2kg,Home Care,Surf Excel,2,410,0,410,820,590.4,229.6,Credit Card,Regular
+351,11-10-2025,DMart Central,Solapur,Aashirvaad Atta 5kg,Grocery,Aashirvaad,2,280,0,280,560,403.2,156.8,Debit Card,Member
+352,18-07-2025,DMart Central,Kolhapur,Aashirvaad Atta 5kg,Grocery,Aashirvaad,5,280,5,266,1330,1008,322,UPI,New Customer
+353,14-07-2025,DMart East,Mumbai,Dettol Handwash 250ml,Personal Care,Dettol,3,95,15,80.75,242.25,205.2,37.05,Debit Card,Member
+354,02-02-2025,DMart East,Navi Mumbai,Parle-G Biscuits 800g,Food,Parle,8,85,0,85,680,489.6,190.4,Debit Card,Member
+355,09-02-2025,DMart West,Aurangabad,Amul Taaza Milk 1L,Dairy,Amul,8,62,20,49.6,396.8,357.12,39.68,UPI,New Customer
+356,24-02-2025,DMart East,Aurangabad,Pampers Diapers M 30s,Baby Care,Pampers,4,650,5,617.5,2470,1872,598,Cash,Member
+357,18-06-2025,DMart North,Thane,Britannia Bread 400g,Bakery,Britannia,7,45,20,36,252,226.8,25.2,Credit Card,New Customer
+358,14-06-2025,DMart South,Nashik,Maggi 2-Minute Noodles 280g,Food,Nestle,3,70,0,70,210,151.2,58.8,Credit Card,Member
+359,30-05-2025,DMart North,Solapur,Vim Dishwash Bar 200g,Home Care,Vim,7,35,0,35,245,176.4,68.6,UPI,Member
+360,21-07-2025,DMart West,Pune,Coca-Cola 750ml,Beverages,Coca-Cola,5,45,20,36,180,162,18,UPI,New Customer
+361,09-10-2025,DMart Central,Amravati,Harpic Toilet Cleaner 1L,Home Care,Harpic,3,190,15,161.5,484.5,410.4,74.1,UPI,Member
+362,29-07-2025,DMart North,Mumbai,Amul Taaza Milk 1L,Dairy,Amul,2,62,20,49.6,99.2,89.28,9.92,Debit Card,Regular
+363,05-08-2025,DMart North,Pune,Parle-G Biscuits 800g,Food,Parle,3,85,15,72.25,216.75,183.6,33.15,Credit Card,New Customer
+364,17-09-2025,DMart North,Kolhapur,Pampers Diapers M 30s,Baby Care,Pampers,7,650,10,585,4095,3276,819,Cash,Member
+365,08-05-2025,DMart West,Mumbai,Harpic Toilet Cleaner 1L,Home Care,Harpic,2,190,0,190,380,273.6,106.4,Cash,New Customer
+366,09-08-2025,DMart Central,Nagpur,Coca-Cola 750ml,Beverages,Coca-Cola,6,45,20,36,216,194.4,21.6,Cash,Member
+367,11-07-2025,DMart North,Amravati,Dove Soap 100g,Personal Care,Dove,4,62,5,58.9,235.6,178.56,57.04,UPI,Member
+368,01-06-2025,DMart North,Pune,Aashirvaad Atta 5kg,Grocery,Aashirvaad,8,280,0,280,2240,1612.8,627.2,Cash,New Customer
+369,25-06-2025,DMart North,Nashik,Surf Excel Matic 2kg,Home Care,Surf Excel,6,410,0,410,2460,1771.2,688.8,Credit Card,Member
+370,23-12-2025,DMart North,Thane,Pampers Diapers M 30s,Baby Care,Pampers,2,650,5,617.5,1235,936,299,Cash,Member
+371,25-06-2025,DMart Central,Mumbai,Fortune Sunflower Oil 1L,Grocery,Fortune,2,145,0,145,290,208.8,81.2,UPI,New Customer
+372,14-10-2025,DMart North,Amravati,Vim Dishwash Bar 200g,Home Care,Vim,3,35,0,35,105,75.6,29.4,UPI,Member
+373,03-12-2025,DMart North,Navi Mumbai,Vim Dishwash Bar 200g,Home Care,Vim,3,35,15,29.75,89.25,75.6,13.65,Cash,New Customer
+374,31-10-2025,DMart North,Navi Mumbai,Maggi 2-Minute Noodles 280g,Food,Nestle,4,70,5,66.5,266,201.6,64.4,Cash,New Customer
+375,27-12-2025,DMart Central,Solapur,Colgate MaxFresh 150g,Personal Care,Colgate,4,125,0,125,500,360,140,Cash,New Customer
+376,11-04-2025,DMart North,Pune,Vim Dishwash Bar 200g,Home Care,Vim,6,35,0,35,210,151.2,58.8,Debit Card,New Customer
+377,18-07-2025,DMart South,Navi Mumbai,Pampers Diapers M 30s,Baby Care,Pampers,6,650,10,585,3510,2808,702,Cash,Member
+378,30-03-2025,DMart West,Solapur,Lay's Classic Salted 52g,Snacks,Lay's,8,25,10,22.5,180,144,36,Cash,New Customer
+379,03-05-2025,DMart West,Pune,Surf Excel Matic 2kg,Home Care,Surf Excel,6,410,0,410,2460,1771.2,688.8,UPI,Member
+380,02-11-2025,DMart East,Solapur,Surf Excel Matic 2kg,Home Care,Surf Excel,7,410,5,389.5,2726.5,2066.4,660.1,Credit Card,Member
+381,03-10-2025,DMart East,Kolhapur,Vim Dishwash Bar 200g,Home Care,Vim,8,35,15,29.75,238,201.6,36.4,UPI,Member
+382,11-06-2025,DMart North,Solapur,Amul Taaza Milk 1L,Dairy,Amul,3,62,0,62,186,133.92,52.08,Cash,Member
+383,10-04-2025,DMart North,Kolhapur,Aashirvaad Atta 5kg,Grocery,Aashirvaad,8,280,0,280,2240,1612.8,627.2,Credit Card,Member
+384,16-08-2025,DMart North,Mumbai,Pampers Diapers M 30s,Baby Care,Pampers,7,650,15,552.5,3867.5,3276,591.5,Cash,New Customer
+385,17-01-2025,DMart West,Nashik,Aashirvaad Atta 5kg,Grocery,Aashirvaad,4,280,0,280,1120,806.4,313.6,Debit Card,Regular
+386,19-09-2025,DMart Central,Solapur,Nescafe Classic 100g,Beverages,Nescafe,8,310,10,279,2232,1785.6,446.4,Cash,Member
+387,22-01-2025,DMart North,Kolhapur,Harpic Toilet Cleaner 1L,Home Care,Harpic,6,190,10,171,1026,820.8,205.2,UPI,Member
+388,17-01-2025,DMart North,Aurangabad,India Gate Basmati Rice 5kg,Grocery,India Gate,4,520,0,520,2080,1497.6,582.4,Debit Card,Regular
+389,02-05-2025,DMart East,Solapur,Nescafe Classic 100g,Beverages,Nescafe,2,310,20,248,496,446.4,49.6,Debit Card,New Customer
+390,12-11-2025,DMart East,Nashik,Maggi 2-Minute Noodles 280g,Food,Nestle,7,70,0,70,490,352.8,137.2,UPI,Regular
+391,24-05-2025,DMart South,Kolhapur,Kissan Tomato Ketchup 1kg,Food,Kissan,6,145,10,130.5,783,626.4,156.6,UPI,Member
+392,17-05-2025,DMart South,Pune,Amul Taaza Milk 1L,Dairy,Amul,5,62,10,55.8,279,223.2,55.8,UPI,Member
+393,02-12-2025,DMart East,Mumbai,Fortune Sunflower Oil 1L,Grocery,Fortune,5,145,20,116,580,522,58,UPI,Regular
+394,13-12-2025,DMart North,Amravati,Britannia Bread 400g,Bakery,Britannia,4,45,20,36,144,129.6,14.4,UPI,New Customer
+395,20-08-2025,DMart Central,Pune,Parle-G Biscuits 800g,Food,Parle,7,85,5,80.75,565.25,428.4,136.85,Credit Card,New Customer
+396,07-09-2025,DMart West,Solapur,Parle-G Biscuits 800g,Food,Parle,6,85,5,80.75,484.5,367.2,117.3,Cash,New Customer
+397,07-12-2025,DMart West,Pune,Tata Salt 1kg,Grocery,Tata,8,28,15,23.8,190.4,161.28,29.12,Credit Card,Regular
+398,18-05-2025,DMart West,Aurangabad,Tata Tea Gold 500g,Beverages,Tata,4,280,5,266,1064,806.4,257.6,Debit Card,New Customer
+399,06-09-2025,DMart West,Nagpur,Kissan Tomato Ketchup 1kg,Food,Kissan,3,145,10,130.5,391.5,313.2,78.3,Cash,Regular
+400,22-03-2025,DMart North,Amravati,Nescafe Classic 100g,Beverages,Nescafe,1,310,0,310,310,223.2,86.8,Cash,Member
+401,04-06-2025,DMart East,Aurangabad,Colgate MaxFresh 150g,Personal Care,Colgate,3,125,15,106.25,318.75,270,48.75,Cash,New Customer
+402,10-07-2025,DMart East,Nagpur,Lay's Classic Salted 52g,Snacks,Lay's,5,25,0,25,125,90,35,Credit Card,New Customer
+403,02-12-2025,DMart Central,Pune,Amul Taaza Milk 1L,Dairy,Amul,4,62,5,58.9,235.6,178.56,57.04,Cash,Regular
+404,31-10-2025,DMart East,Kolhapur,Pampers Diapers M 30s,Baby Care,Pampers,2,650,0,650,1300,936,364,Credit Card,Regular
+405,03-03-2025,DMart North,Mumbai,Aashirvaad Atta 5kg,Grocery,Aashirvaad,6,280,20,224,1344,1209.6,134.4,Credit Card,Regular
+406,22-02-2025,DMart Central,Thane,Dove Soap 100g,Personal Care,Dove,7,62,0,62,434,312.48,121.52,Debit Card,Member
+407,10-03-2025,DMart East,Pune,Surf Excel Matic 2kg,Home Care,Surf Excel,7,410,20,328,2296,2066.4,229.6,Cash,New Customer
+408,20-04-2025,DMart East,Navi Mumbai,Vim Dishwash Bar 200g,Home Care,Vim,8,35,0,35,280,201.6,78.4,Credit Card,Regular
+409,05-03-2025,DMart South,Navi Mumbai,Tata Salt 1kg,Grocery,Tata,2,28,0,28,56,40.32,15.68,Debit Card,Member
+410,22-05-2025,DMart Central,Nashik,Britannia Bread 400g,Bakery,Britannia,3,45,0,45,135,97.2,37.8,Debit Card,New Customer
+411,23-09-2025,DMart South,Kolhapur,Aashirvaad Atta 5kg,Grocery,Aashirvaad,5,280,0,280,1400,1008,392,UPI,New Customer
+412,28-01-2025,DMart East,Amravati,Coca-Cola 750ml,Beverages,Coca-Cola,5,45,15,38.25,191.25,162,29.25,Credit Card,Regular
+413,01-11-2025,DMart Central,Kolhapur,Dove Soap 100g,Personal Care,Dove,8,62,15,52.7,421.6,357.12,64.48,Cash,Member
+414,19-10-2025,DMart North,Thane,Britannia Bread 400g,Bakery,Britannia,3,45,5,42.75,128.25,97.2,31.05,UPI,Member
+415,04-02-2025,DMart Central,Aurangabad,Tata Salt 1kg,Grocery,Tata,1,28,10,25.2,25.2,20.16,5.04,UPI,Regular
+416,27-05-2025,DMart South,Navi Mumbai,Fortune Sunflower Oil 1L,Grocery,Fortune,7,145,10,130.5,913.5,730.8,182.7,Credit Card,New Customer
+417,02-10-2025,DMart South,Solapur,Coca-Cola 750ml,Beverages,Coca-Cola,2,45,15,38.25,76.5,64.8,11.7,UPI,Member
+418,19-09-2025,DMart East,Mumbai,Tata Salt 1kg,Grocery,Tata,5,28,0,28,140,100.8,39.2,Debit Card,Member
+419,24-12-2025,DMart North,Nashik,Kissan Tomato Ketchup 1kg,Food,Kissan,2,145,0,145,290,208.8,81.2,Cash,Regular
+420,21-08-2025,DMart South,Solapur,Tata Salt 1kg,Grocery,Tata,7,28,0,28,196,141.12,54.88,Cash,Member
+421,29-12-2025,DMart East,Nagpur,Vim Dishwash Bar 200g,Home Care,Vim,2,35,0,35,70,50.4,19.6,UPI,Member
+422,10-07-2025,DMart East,Aurangabad,Lay's Classic Salted 52g,Snacks,Lay's,5,25,0,25,125,90,35,Cash,Regular
+423,26-09-2025,DMart Central,Aurangabad,Britannia Bread 400g,Bakery,Britannia,7,45,0,45,315,226.8,88.2,Cash,Member
+424,13-09-2025,DMart South,Mumbai,Nescafe Classic 100g,Beverages,Nescafe,6,310,0,310,1860,1339.2,520.8,Debit Card,Regular
+425,12-12-2025,DMart Central,Nashik,Parle-G Biscuits 800g,Food,Parle,2,85,10,76.5,153,122.4,30.6,Cash,Regular
+426,30-08-2025,DMart West,Navi Mumbai,Aashirvaad Atta 5kg,Grocery,Aashirvaad,4,280,0,280,1120,806.4,313.6,UPI,Regular
+427,14-06-2025,DMart East,Navi Mumbai,Fortune Sunflower Oil 1L,Grocery,Fortune,7,145,0,145,1015,730.8,284.2,Debit Card,Member
+428,15-09-2025,DMart Central,Mumbai,Tata Salt 1kg,Grocery,Tata,6,28,0,28,168,120.96,47.04,UPI,New Customer
+429,27-08-2025,DMart West,Aurangabad,Fortune Sunflower Oil 1L,Grocery,Fortune,7,145,0,145,1015,730.8,284.2,Debit Card,Regular
+430,08-07-2025,DMart East,Aurangabad,Harpic Toilet Cleaner 1L,Home Care,Harpic,8,190,0,190,1520,1094.4,425.6,Debit Card,New Customer
+431,08-07-2025,DMart South,Amravati,Maggi 2-Minute Noodles 280g,Food,Nestle,4,70,5,66.5,266,201.6,64.4,UPI,New Customer
+432,04-01-2025,DMart North,Nagpur,Harpic Toilet Cleaner 1L,Home Care,Harpic,4,190,0,190,760,547.2,212.8,UPI,New Customer
+433,01-01-2025,DMart North,Aurangabad,Lay's Classic Salted 52g,Snacks,Lay's,1,25,0,25,25,18,7,Cash,Regular
+434,09-09-2025,DMart Central,Mumbai,Dettol Handwash 250ml,Personal Care,Dettol,4,95,5,90.25,361,273.6,87.4,Debit Card,Regular
+435,24-09-2025,DMart North,Thane,Fortune Sunflower Oil 1L,Grocery,Fortune,4,145,20,116,464,417.6,46.4,Credit Card,New Customer
+436,10-03-2025,DMart North,Pune,Tata Salt 1kg,Grocery,Tata,2,28,10,25.2,50.4,40.32,10.08,Cash,Member
+437,14-05-2025,DMart West,Navi Mumbai,Surf Excel Matic 2kg,Home Care,Surf Excel,4,410,0,410,1640,1180.8,459.2,Debit Card,Member
+438,08-02-2025,DMart East,Mumbai,Nescafe Classic 100g,Beverages,Nescafe,5,310,0,310,1550,1116,434,Cash,Regular
+439,27-08-2025,DMart West,Navi Mumbai,India Gate Basmati Rice 5kg,Grocery,India Gate,3,520,5,494,1482,1123.2,358.8,Cash,New Customer
+440,07-06-2025,DMart North,Aurangabad,Lay's Classic Salted 52g,Snacks,Lay's,4,25,5,23.75,95,72,23,Cash,Regular
+441,27-12-2025,DMart South,Nagpur,Vim Dishwash Bar 200g,Home Care,Vim,5,35,20,28,140,126,14,UPI,Member
+442,08-05-2025,DMart West,Navi Mumbai,Surf Excel Matic 2kg,Home Care,Surf Excel,2,410,15,348.5,697,590.4,106.6,Cash,New Customer
+443,31-03-2025,DMart Central,Navi Mumbai,Amul Taaza Milk 1L,Dairy,Amul,5,62,20,49.6,248,223.2,24.8,Credit Card,New Customer
+444,25-08-2025,DMart Central,Mumbai,Harpic Toilet Cleaner 1L,Home Care,Harpic,4,190,0,190,760,547.2,212.8,Cash,Regular
+445,12-04-2025,DMart North,Thane,Fortune Sunflower Oil 1L,Grocery,Fortune,4,145,0,145,580,417.6,162.4,Cash,New Customer
+446,08-02-2025,DMart Central,Pune,Kissan Tomato Ketchup 1kg,Food,Kissan,5,145,20,116,580,522,58,UPI,New Customer
+447,19-06-2025,DMart Central,Nagpur,Nescafe Classic 100g,Beverages,Nescafe,3,310,0,310,930,669.6,260.4,Credit Card,Regular
+448,22-07-2025,DMart North,Nagpur,Vim Dishwash Bar 200g,Home Care,Vim,7,35,20,28,196,176.4,19.6,Credit Card,New Customer
+449,20-04-2025,DMart East,Aurangabad,Tata Tea Gold 500g,Beverages,Tata,3,280,0,280,840,604.8,235.2,Debit Card,Member
+450,14-11-2025,DMart South,Nashik,Surf Excel Matic 2kg,Home Care,Surf Excel,1,410,10,369,369,295.2,73.8,Debit Card,Member
+451,14-02-2025,DMart West,Navi Mumbai,Tata Tea Gold 500g,Beverages,Tata,8,280,0,280,2240,1612.8,627.2,UPI,Member
+452,06-10-2025,DMart Central,Navi Mumbai,Colgate MaxFresh 150g,Personal Care,Colgate,4,125,15,106.25,425,360,65,Debit Card,Member
+453,17-10-2025,DMart South,Thane,Harpic Toilet Cleaner 1L,Home Care,Harpic,8,190,0,190,1520,1094.4,425.6,Credit Card,Member
+454,02-11-2025,DMart East,Nagpur,Vim Dishwash Bar 200g,Home Care,Vim,1,35,0,35,35,25.2,9.8,Debit Card,Regular
+455,27-10-2025,DMart East,Mumbai,Pampers Diapers M 30s,Baby Care,Pampers,6,650,20,520,3120,2808,312,Cash,Regular
+456,29-01-2025,DMart East,Solapur,Dove Soap 100g,Personal Care,Dove,5,62,10,55.8,279,223.2,55.8,Credit Card,Member
+457,31-10-2025,DMart West,Thane,Vim Dishwash Bar 200g,Home Care,Vim,3,35,0,35,105,75.6,29.4,Cash,New Customer
+458,07-04-2025,DMart North,Kolhapur,Lay's Classic Salted 52g,Snacks,Lay's,3,25,10,22.5,67.5,54,13.5,Debit Card,Regular
+459,29-01-2025,DMart East,Solapur,Pampers Diapers M 30s,Baby Care,Pampers,1,650,0,650,650,468,182,UPI,Regular
+460,19-06-2025,DMart South,Nashik,Dettol Handwash 250ml,Personal Care,Dettol,8,95,0,95,760,547.2,212.8,UPI,Member
+461,12-01-2025,DMart East,Solapur,Vim Dishwash Bar 200g,Home Care,Vim,6,35,0,35,210,151.2,58.8,UPI,Regular
+462,11-07-2025,DMart North,Solapur,Dettol Handwash 250ml,Personal Care,Dettol,6,95,0,95,570,410.4,159.6,Cash,Member
+463,22-03-2025,DMart North,Amravati,Amul Taaza Milk 1L,Dairy,Amul,6,62,0,62,372,267.84,104.16,Debit Card,Regular
+464,07-12-2025,DMart South,Mumbai,Harpic Toilet Cleaner 1L,Home Care,Harpic,6,190,0,190,1140,820.8,319.2,Credit Card,Member
+465,01-01-2025,DMart South,Navi Mumbai,Amul Taaza Milk 1L,Dairy,Amul,3,62,0,62,186,133.92,52.08,Cash,Regular
+466,10-11-2025,DMart East,Solapur,Maggi 2-Minute Noodles 280g,Food,Nestle,6,70,20,56,336,302.4,33.6,Cash,Member
+467,09-02-2025,DMart East,Thane,Surf Excel Matic 2kg,Home Care,Surf Excel,6,410,15,348.5,2091,1771.2,319.8,Debit Card,Regular
+468,06-01-2025,DMart West,Nashik,Tata Salt 1kg,Grocery,Tata,6,28,5,26.6,159.6,120.96,38.64,UPI,New Customer
+469,25-02-2025,DMart Central,Nagpur,Tata Salt 1kg,Grocery,Tata,6,28,0,28,168,120.96,47.04,Credit Card,Member
+470,10-09-2025,DMart North,Thane,Tata Tea Gold 500g,Beverages,Tata,3,280,5,266,798,604.8,193.2,Credit Card,Regular
+471,20-08-2025,DMart Central,Nagpur,Pampers Diapers M 30s,Baby Care,Pampers,4,650,0,650,2600,1872,728,Debit Card,Regular
+472,07-02-2025,DMart West,Mumbai,Britannia Bread 400g,Bakery,Britannia,5,45,0,45,225,162,63,Credit Card,Regular
+473,01-11-2025,DMart South,Amravati,Tata Salt 1kg,Grocery,Tata,2,28,0,28,56,40.32,15.68,Cash,Member
+474,28-01-2025,DMart Central,Thane,Vim Dishwash Bar 200g,Home Care,Vim,7,35,0,35,245,176.4,68.6,UPI,Regular
+475,25-05-2025,DMart West,Nashik,Tata Tea Gold 500g,Beverages,Tata,5,280,15,238,1190,1008,182,Cash,Regular
+476,28-01-2025,DMart West,Nagpur,Coca-Cola 750ml,Beverages,Coca-Cola,8,45,0,45,360,259.2,100.8,Credit Card,Regular
+477,19-02-2025,DMart Central,Nashik,Amul Taaza Milk 1L,Dairy,Amul,8,62,0,62,496,357.12,138.88,UPI,New Customer
+478,01-03-2025,DMart West,Navi Mumbai,Amul Taaza Milk 1L,Dairy,Amul,2,62,5,58.9,117.8,89.28,28.52,Credit Card,Member
+479,06-10-2025,DMart North,Mumbai,Parle-G Biscuits 800g,Food,Parle,2,85,15,72.25,144.5,122.4,22.1,Debit Card,Member
+480,23-01-2025,DMart West,Amravati,Lay's Classic Salted 52g,Snacks,Lay's,3,25,5,23.75,71.25,54,17.25,Credit Card,Member
+481,01-02-2025,DMart East,Pune,Dove Soap 100g,Personal Care,Dove,5,62,10,55.8,279,223.2,55.8,Cash,New Customer
+482,29-10-2025,DMart East,Kolhapur,Lay's Classic Salted 52g,Snacks,Lay's,7,25,20,20,140,126,14,Cash,Member
+483,18-12-2025,DMart North,Solapur,Dettol Handwash 250ml,Personal Care,Dettol,7,95,10,85.5,598.5,478.8,119.7,UPI,Member
+484,18-01-2025,DMart South,Solapur,Amul Taaza Milk 1L,Dairy,Amul,2,62,5,58.9,117.8,89.28,28.52,UPI,Regular
+485,19-04-2025,DMart East,Mumbai,Nescafe Classic 100g,Beverages,Nescafe,3,310,0,310,930,669.6,260.4,Cash,Member
+486,18-11-2025,DMart East,Solapur,Tata Salt 1kg,Grocery,Tata,7,28,0,28,196,141.12,54.88,Debit Card,Member
+487,12-10-2025,DMart North,Kolhapur,Tata Salt 1kg,Grocery,Tata,2,28,5,26.6,53.2,40.32,12.88,Debit Card,Member
+488,07-01-2025,DMart South,Solapur,Dettol Handwash 250ml,Personal Care,Dettol,8,95,20,76,608,547.2,60.8,Credit Card,Regular
+489,18-10-2025,DMart South,Solapur,Tata Tea Gold 500g,Beverages,Tata,3,280,0,280,840,604.8,235.2,Cash,Regular
+490,27-05-2025,DMart South,Thane,Kissan Tomato Ketchup 1kg,Food,Kissan,2,145,20,116,232,208.8,23.2,Credit Card,Member
+491,08-11-2025,DMart North,Nagpur,Coca-Cola 750ml,Beverages,Coca-Cola,8,45,10,40.5,324,259.2,64.8,UPI,Member
+492,08-11-2025,DMart North,Nagpur,Coca-Cola 750ml,Beverages,Coca-Cola,3,45,10,40.5,121.5,97.2,24.3,Credit Card,Member
+493,01-09-2025,DMart West,Thane,Dove Soap 100g,Personal Care,Dove,1,62,15,52.7,52.7,44.64,8.06,Cash,Member
+494,09-09-2025,DMart Central,Nashik,Amul Taaza Milk 1L,Dairy,Amul,5,62,0,62,310,223.2,86.8,UPI,Member
+495,02-08-2025,DMart South,Pune,Nescafe Classic 100g,Beverages,Nescafe,6,310,0,310,1860,1339.2,520.8,UPI,Member
+496,06-09-2025,DMart South,Thane,Colgate MaxFresh 150g,Personal Care,Colgate,7,125,15,106.25,743.75,630,113.75,Cash,New Customer
+497,30-12-2025,DMart South,Navi Mumbai,Vim Dishwash Bar 200g,Home Care,Vim,2,35,0,35,70,50.4,19.6,UPI,New Customer
+498,09-04-2025,DMart East,Nagpur,Kissan Tomato Ketchup 1kg,Food,Kissan,1,145,0,145,145,104.4,40.6,UPI,Regular
+499,27-12-2025,DMart East,Aurangabad,Nescafe Classic 100g,Beverages,Nescafe,1,310,0,310,310,223.2,86.8,Debit Card,Member
+500,05-03-2025,DMart Central,Nashik,Dettol Handwash 250ml,Personal Care,Dettol,7,95,15,80.75,565.25,478.8,86.45,Debit Card,Member
+501,31-08-2025,DMart South,Kolhapur,Maggi 2-Minute Noodles 280g,Food,Nestle,8,70,0,70,560,403.2,156.8,Debit Card,Member
+502,19-12-2025,DMart Central,Aurangabad,Vim Dishwash Bar 200g,Home Care,Vim,5,35,15,29.75,148.75,126,22.75,Cash,Member
+503,20-10-2025,DMart East,Nashik,Fortune Sunflower Oil 1L,Grocery,Fortune,3,145,20,116,348,313.2,34.8,UPI,New Customer
+504,29-07-2025,DMart South,Nagpur,Colgate MaxFresh 150g,Personal Care,Colgate,5,125,15,106.25,531.25,450,81.25,Cash,Member
+505,05-01-2025,DMart East,Aurangabad,Surf Excel Matic 2kg,Home Care,Surf Excel,3,410,10,369,1107,885.6,221.4,Debit Card,New Customer
+506,28-06-2025,DMart North,Aurangabad,Parle-G Biscuits 800g,Food,Parle,7,85,5,80.75,565.25,428.4,136.85,UPI,Member
+507,22-02-2025,DMart Central,Kolhapur,Amul Taaza Milk 1L,Dairy,Amul,7,62,10,55.8,390.6,312.48,78.12,Debit Card,New Customer
+508,17-12-2025,DMart Central,Amravati,Maggi 2-Minute Noodles 280g,Food,Nestle,5,70,0,70,350,252,98,Cash,Member
+509,22-05-2025,DMart West,Aurangabad,Parle-G Biscuits 800g,Food,Parle,6,85,20,68,408,367.2,40.8,UPI,Regular
+510,04-11-2025,DMart North,Thane,Dettol Handwash 250ml,Personal Care,Dettol,4,95,0,95,380,273.6,106.4,UPI,New Customer
+511,13-05-2025,DMart North,Navi Mumbai,Aashirvaad Atta 5kg,Grocery,Aashirvaad,8,280,0,280,2240,1612.8,627.2,Credit Card,New Customer
+512,24-04-2025,DMart South,Amravati,Fortune Sunflower Oil 1L,Grocery,Fortune,4,145,0,145,580,417.6,162.4,Debit Card,New Customer
+513,03-12-2025,DMart South,Mumbai,Amul Taaza Milk 1L,Dairy,Amul,3,62,20,49.6,148.8,133.92,14.88,Debit Card,Regular
+514,13-05-2025,DMart South,Mumbai,Pampers Diapers M 30s,Baby Care,Pampers,3,650,15,552.5,1657.5,1404,253.5,Debit Card,New Customer
+515,25-04-2025,DMart West,Navi Mumbai,Tata Salt 1kg,Grocery,Tata,4,28,0,28,112,80.64,31.36,Debit Card,Member
+516,02-03-2025,DMart North,Nagpur,Parle-G Biscuits 800g,Food,Parle,5,85,5,80.75,403.75,306,97.75,Cash,Member
+517,15-12-2025,DMart North,Kolhapur,Colgate MaxFresh 150g,Personal Care,Colgate,2,125,20,100,200,180,20,Debit Card,Member
+518,13-04-2025,DMart West,Navi Mumbai,Fortune Sunflower Oil 1L,Grocery,Fortune,3,145,0,145,435,313.2,121.8,Credit Card,Regular
+519,11-02-2025,DMart North,Thane,Britannia Bread 400g,Bakery,Britannia,3,45,20,36,108,97.2,10.8,UPI,Member
+520,21-05-2025,DMart East,Mumbai,Fortune Sunflower Oil 1L,Grocery,Fortune,1,145,5,137.75,137.75,104.4,33.35,UPI,Member
+521,11-08-2025,DMart North,Navi Mumbai,Tata Salt 1kg,Grocery,Tata,3,28,10,25.2,75.6,60.48,15.12,Credit Card,Member
+522,01-10-2025,DMart East,Thane,Coca-Cola 750ml,Beverages,Coca-Cola,1,45,0,45,45,32.4,12.6,Cash,Member
+523,13-12-2025,DMart Central,Nashik,Dettol Handwash 250ml,Personal Care,Dettol,4,95,0,95,380,273.6,106.4,UPI,New Customer
+524,22-02-2025,DMart North,Kolhapur,Lay's Classic Salted 52g,Snacks,Lay's,5,25,0,25,125,90,35,Debit Card,Regular
+525,29-05-2025,DMart North,Kolhapur,Tata Salt 1kg,Grocery,Tata,1,28,0,28,28,20.16,7.84,Debit Card,Member
+526,03-07-2025,DMart East,Mumbai,Surf Excel Matic 2kg,Home Care,Surf Excel,6,410,5,389.5,2337,1771.2,565.8,Credit Card,Regular
+527,09-03-2025,DMart East,Nagpur,Dove Soap 100g,Personal Care,Dove,4,62,15,52.7,210.8,178.56,32.24,UPI,Regular
+528,24-11-2025,DMart West,Kolhapur,Lay's Classic Salted 52g,Snacks,Lay's,1,25,5,23.75,23.75,18,5.75,Cash,New Customer
+529,11-01-2025,DMart Central,Pune,Fortune Sunflower Oil 1L,Grocery,Fortune,2,145,15,123.25,246.5,208.8,37.7,Credit Card,Member
+530,10-05-2025,DMart North,Mumbai,Coca-Cola 750ml,Beverages,Coca-Cola,2,45,10,40.5,81,64.8,16.2,UPI,New Customer
+531,05-12-2025,DMart Central,Kolhapur,Aashirvaad Atta 5kg,Grocery,Aashirvaad,5,280,5,266,1330,1008,322,Debit Card,New Customer
+532,23-02-2025,DMart South,Solapur,Maggi 2-Minute Noodles 280g,Food,Nestle,3,70,5,66.5,199.5,151.2,48.3,Cash,Member
+533,12-04-2025,DMart South,Nashik,India Gate Basmati Rice 5kg,Grocery,India Gate,2,520,5,494,988,748.8,239.2,Debit Card,New Customer
+534,29-07-2025,DMart West,Mumbai,Colgate MaxFresh 150g,Personal Care,Colgate,6,125,15,106.25,637.5,540,97.5,Cash,New Customer
+535,04-09-2025,DMart West,Nashik,Pampers Diapers M 30s,Baby Care,Pampers,4,650,15,552.5,2210,1872,338,Cash,Regular
+536,21-10-2025,DMart North,Mumbai,Tata Salt 1kg,Grocery,Tata,2,28,20,22.4,44.8,40.32,4.48,Cash,New Customer
+537,26-11-2025,DMart East,Amravati,Tata Salt 1kg,Grocery,Tata,2,28,0,28,56,40.32,15.68,Debit Card,Member
+538,31-03-2025,DMart Central,Aurangabad,Nescafe Classic 100g,Beverages,Nescafe,1,310,0,310,310,223.2,86.8,Debit Card,New Customer
+539,01-03-2025,DMart Central,Nagpur,Britannia Bread 400g,Bakery,Britannia,7,45,15,38.25,267.75,226.8,40.95,Cash,Regular
+540,13-08-2025,DMart South,Aurangabad,Vim Dishwash Bar 200g,Home Care,Vim,6,35,0,35,210,151.2,58.8,Cash,Member
+541,25-07-2025,DMart North,Amravati,Britannia Bread 400g,Bakery,Britannia,3,45,0,45,135,97.2,37.8,Debit Card,Member
+542,27-03-2025,DMart Central,Mumbai,Pampers Diapers M 30s,Baby Care,Pampers,7,650,15,552.5,3867.5,3276,591.5,Cash,Regular
+543,05-09-2025,DMart South,Amravati,India Gate Basmati Rice 5kg,Grocery,India Gate,7,520,10,468,3276,2620.8,655.2,UPI,New Customer
+544,15-01-2025,DMart East,Amravati,Coca-Cola 750ml,Beverages,Coca-Cola,6,45,10,40.5,243,194.4,48.6,Credit Card,Regular
+545,02-02-2025,DMart West,Thane,Tata Tea Gold 500g,Beverages,Tata,8,280,0,280,2240,1612.8,627.2,Cash,New Customer
+546,23-06-2025,DMart South,Kolhapur,Dettol Handwash 250ml,Personal Care,Dettol,4,95,15,80.75,323,273.6,49.4,Cash,Member
+547,06-12-2025,DMart North,Mumbai,Dove Soap 100g,Personal Care,Dove,8,62,0,62,496,357.12,138.88,Cash,Regular
+548,11-09-2025,DMart East,Pune,Vim Dishwash Bar 200g,Home Care,Vim,8,35,20,28,224,201.6,22.4,Credit Card,Member
+549,26-01-2025,DMart South,Nashik,Dove Soap 100g,Personal Care,Dove,6,62,0,62,372,267.84,104.16,Credit Card,Member
+550,16-08-2025,DMart South,Amravati,Dove Soap 100g,Personal Care,Dove,2,62,5,58.9,117.8,89.28,28.52,Cash,Member
+551,12-09-2025,DMart Central,Pune,Nescafe Classic 100g,Beverages,Nescafe,6,310,0,310,1860,1339.2,520.8,Credit Card,Member
+552,16-02-2025,DMart South,Solapur,Fortune Sunflower Oil 1L,Grocery,Fortune,1,145,20,116,116,104.4,11.6,Debit Card,New Customer
+553,10-12-2025,DMart North,Thane,Harpic Toilet Cleaner 1L,Home Care,Harpic,4,190,15,161.5,646,547.2,98.8,Debit Card,Regular
+554,14-10-2025,DMart South,Solapur,Dove Soap 100g,Personal Care,Dove,8,62,0,62,496,357.12,138.88,Credit Card,New Customer
+555,19-02-2025,DMart East,Nagpur,Lay's Classic Salted 52g,Snacks,Lay's,8,25,0,25,200,144,56,Debit Card,Member
+556,24-02-2025,DMart Central,Mumbai,Amul Taaza Milk 1L,Dairy,Amul,6,62,15,52.7,316.2,267.84,48.36,Credit Card,Regular
+557,09-11-2025,DMart East,Nashik,Tata Tea Gold 500g,Beverages,Tata,2,280,0,280,560,403.2,156.8,Cash,Member
+558,08-04-2025,DMart West,Pune,Colgate MaxFresh 150g,Personal Care,Colgate,8,125,20,100,800,720,80,Credit Card,Regular
+559,19-08-2025,DMart North,Solapur,Kissan Tomato Ketchup 1kg,Food,Kissan,2,145,20,116,232,208.8,23.2,UPI,Member
+560,10-08-2025,DMart South,Amravati,Aashirvaad Atta 5kg,Grocery,Aashirvaad,1,280,10,252,252,201.6,50.4,UPI,New Customer
+561,07-03-2025,DMart Central,Navi Mumbai,Kissan Tomato Ketchup 1kg,Food,Kissan,3,145,15,123.25,369.75,313.2,56.55,Debit Card,New Customer
+562,21-12-2025,DMart East,Aurangabad,Coca-Cola 750ml,Beverages,Coca-Cola,7,45,10,40.5,283.5,226.8,56.7,Credit Card,Member
+563,10-03-2025,DMart East,Navi Mumbai,Amul Taaza Milk 1L,Dairy,Amul,8,62,20,49.6,396.8,357.12,39.68,Debit Card,New Customer
+564,11-10-2025,DMart East,Nashik,Harpic Toilet Cleaner 1L,Home Care,Harpic,6,190,15,161.5,969,820.8,148.2,UPI,New Customer
+565,09-03-2025,DMart East,Kolhapur,Amul Taaza Milk 1L,Dairy,Amul,6,62,15,52.7,316.2,267.84,48.36,Debit Card,New Customer
+566,03-09-2025,DMart South,Solapur,India Gate Basmati Rice 5kg,Grocery,India Gate,6,520,10,468,2808,2246.4,561.6,Credit Card,New Customer
+567,05-08-2025,DMart Central,Kolhapur,Harpic Toilet Cleaner 1L,Home Care,Harpic,5,190,20,152,760,684,76,Cash,Regular
+568,10-12-2025,DMart Central,Nashik,Coca-Cola 750ml,Beverages,Coca-Cola,3,45,0,45,135,97.2,37.8,Debit Card,Regular
+569,01-02-2025,DMart West,Nashik,Amul Taaza Milk 1L,Dairy,Amul,5,62,0,62,310,223.2,86.8,Cash,Member
+570,12-12-2025,DMart South,Nashik,Nescafe Classic 100g,Beverages,Nescafe,2,310,10,279,558,446.4,111.6,Credit Card,Regular
+571,07-12-2025,DMart Central,Navi Mumbai,Dettol Handwash 250ml,Personal Care,Dettol,5,95,15,80.75,403.75,342,61.75,Credit Card,Member
+572,09-05-2025,DMart East,Solapur,Britannia Bread 400g,Bakery,Britannia,1,45,0,45,45,32.4,12.6,Credit Card,Regular
+573,10-04-2025,DMart West,Amravati,Lay's Classic Salted 52g,Snacks,Lay's,4,25,20,20,80,72,8,UPI,New Customer
+574,21-09-2025,DMart Central,Navi Mumbai,Tata Salt 1kg,Grocery,Tata,3,28,0,28,84,60.48,23.52,Cash,Member
+575,24-03-2025,DMart South,Aurangabad,Parle-G Biscuits 800g,Food,Parle,5,85,0,85,425,306,119,Cash,Member
+576,20-03-2025,DMart West,Solapur,Nescafe Classic 100g,Beverages,Nescafe,3,310,0,310,930,669.6,260.4,Cash,New Customer
+577,21-10-2025,DMart South,Thane,Maggi 2-Minute Noodles 280g,Food,Nestle,5,70,5,66.5,332.5,252,80.5,Cash,New Customer
+578,24-09-2025,DMart Central,Kolhapur,Britannia Bread 400g,Bakery,Britannia,4,45,0,45,180,129.6,50.4,UPI,Member
+579,28-06-2025,DMart East,Nashik,Harpic Toilet Cleaner 1L,Home Care,Harpic,7,190,0,190,1330,957.6,372.4,Debit Card,Member
+580,13-11-2025,DMart South,Amravati,Lay's Classic Salted 52g,Snacks,Lay's,5,25,0,25,125,90,35,Cash,Regular
+581,25-11-2025,DMart South,Solapur,Lay's Classic Salted 52g,Snacks,Lay's,8,25,0,25,200,144,56,UPI,Regular
+582,28-02-2025,DMart North,Aurangabad,Britannia Bread 400g,Bakery,Britannia,7,45,20,36,252,226.8,25.2,Debit Card,Regular
+583,18-09-2025,DMart North,Amravati,Dettol Handwash 250ml,Personal Care,Dettol,6,95,10,85.5,513,410.4,102.6,Cash,Member
+584,12-02-2025,DMart Central,Mumbai,Colgate MaxFresh 150g,Personal Care,Colgate,6,125,10,112.5,675,540,135,Cash,New Customer
+585,19-11-2025,DMart East,Navi Mumbai,Tata Salt 1kg,Grocery,Tata,4,28,15,23.8,95.2,80.64,14.56,Cash,Regular
+586,06-02-2025,DMart East,Nagpur,Harpic Toilet Cleaner 1L,Home Care,Harpic,7,190,15,161.5,1130.5,957.6,172.9,Credit Card,New Customer
+587,07-02-2025,DMart Central,Mumbai,Britannia Bread 400g,Bakery,Britannia,1,45,0,45,45,32.4,12.6,Debit Card,New Customer
+588,28-07-2025,DMart North,Amravati,Tata Salt 1kg,Grocery,Tata,4,28,0,28,112,80.64,31.36,Credit Card,Member
+589,11-12-2025,DMart Central,Kolhapur,Britannia Bread 400g,Bakery,Britannia,1,45,5,42.75,42.75,32.4,10.35,Cash,New Customer
+590,27-10-2025,DMart Central,Pune,Maggi 2-Minute Noodles 280g,Food,Nestle,2,70,20,56,112,100.8,11.2,Debit Card,New Customer
+591,18-12-2025,DMart West,Solapur,India Gate Basmati Rice 5kg,Grocery,India Gate,5,520,20,416,2080,1872,208,Cash,Member
+592,05-12-2025,DMart Central,Amravati,Nescafe Classic 100g,Beverages,Nescafe,7,310,5,294.5,2061.5,1562.4,499.1,UPI,New Customer
+593,20-07-2025,DMart South,Aurangabad,Dove Soap 100g,Personal Care,Dove,3,62,15,52.7,158.1,133.92,24.18,UPI,Member
+594,12-10-2025,DMart East,Pune,Lay's Classic Salted 52g,Snacks,Lay's,1,25,10,22.5,22.5,18,4.5,Cash,Regular
+595,08-10-2025,DMart Central,Aurangabad,Kissan Tomato Ketchup 1kg,Food,Kissan,7,145,10,130.5,913.5,730.8,182.7,UPI,New Customer
+596,27-11-2025,DMart South,Mumbai,Lay's Classic Salted 52g,Snacks,Lay's,4,25,5,23.75,95,72,23,UPI,Regular
+597,28-02-2025,DMart East,Solapur,Dove Soap 100g,Personal Care,Dove,5,62,0,62,310,223.2,86.8,Cash,New Customer
+598,10-12-2025,DMart Central,Aurangabad,Nescafe Classic 100g,Beverages,Nescafe,2,310,0,310,620,446.4,173.6,Cash,Regular
+599,02-07-2025,DMart East,Nashik,Kissan Tomato Ketchup 1kg,Food,Kissan,8,145,0,145,1160,835.2,324.8,Cash,Member
+600,12-06-2025,DMart North,Amravati,Maggi 2-Minute Noodles 280g,Food,Nestle,2,70,0,70,140,100.8,39.2,Debit Card,New Customer
+601,18-10-2025,DMart West,Thane,Amul Taaza Milk 1L,Dairy,Amul,3,62,10,55.8,167.4,133.92,33.48,Credit Card,Regular
+602,24-04-2025,DMart North,Aurangabad,Aashirvaad Atta 5kg,Grocery,Aashirvaad,6,280,0,280,1680,1209.6,470.4,Debit Card,Regular
+603,17-08-2025,DMart West,Aurangabad,Britannia Bread 400g,Bakery,Britannia,8,45,5,42.75,342,259.2,82.8,Credit Card,New Customer
+604,07-11-2025,DMart Central,Aurangabad,India Gate Basmati Rice 5kg,Grocery,India Gate,3,520,15,442,1326,1123.2,202.8,UPI,New Customer
+605,17-11-2025,DMart Central,Pune,Colgate MaxFresh 150g,Personal Care,Colgate,5,125,15,106.25,531.25,450,81.25,Cash,New Customer
+606,30-10-2025,DMart East,Nagpur,Aashirvaad Atta 5kg,Grocery,Aashirvaad,7,280,20,224,1568,1411.2,156.8,Debit Card,New Customer
+607,18-03-2025,DMart West,Navi Mumbai,Harpic Toilet Cleaner 1L,Home Care,Harpic,8,190,15,161.5,1292,1094.4,197.6,UPI,New Customer
+608,14-09-2025,DMart South,Pune,Amul Taaza Milk 1L,Dairy,Amul,3,62,5,58.9,176.7,133.92,42.78,Credit Card,Member
+609,03-05-2025,DMart South,Mumbai,Dettol Handwash 250ml,Personal Care,Dettol,1,95,15,80.75,80.75,68.4,12.35,UPI,Member
+610,17-10-2025,DMart East,Amravati,Vim Dishwash Bar 200g,Home Care,Vim,3,35,10,31.5,94.5,75.6,18.9,Debit Card,Regular
+611,02-02-2025,DMart West,Thane,Dove Soap 100g,Personal Care,Dove,8,62,0,62,496,357.12,138.88,UPI,Regular
+612,29-08-2025,DMart North,Nagpur,Colgate MaxFresh 150g,Personal Care,Colgate,6,125,5,118.75,712.5,540,172.5,Cash,New Customer
+613,24-09-2025,DMart West,Aurangabad,Britannia Bread 400g,Bakery,Britannia,2,45,15,38.25,76.5,64.8,11.7,UPI,Member
+614,01-12-2025,DMart Central,Kolhapur,Coca-Cola 750ml,Beverages,Coca-Cola,6,45,10,40.5,243,194.4,48.6,Debit Card,Member
+615,26-06-2025,DMart North,Amravati,Dove Soap 100g,Personal Care,Dove,7,62,0,62,434,312.48,121.52,Cash,New Customer
+616,28-04-2025,DMart Central,Kolhapur,Surf Excel Matic 2kg,Home Care,Surf Excel,8,410,0,410,3280,2361.6,918.4,Debit Card,Regular
+617,05-07-2025,DMart South,Pune,Surf Excel Matic 2kg,Home Care,Surf Excel,3,410,0,410,1230,885.6,344.4,UPI,Member
+618,12-12-2025,DMart North,Amravati,Britannia Bread 400g,Bakery,Britannia,2,45,5,42.75,85.5,64.8,20.7,UPI,New Customer
+619,05-05-2025,DMart Central,Mumbai,Vim Dishwash Bar 200g,Home Care,Vim,7,35,0,35,245,176.4,68.6,UPI,Regular
+620,17-03-2025,DMart Central,Mumbai,Dettol Handwash 250ml,Personal Care,Dettol,1,95,10,85.5,85.5,68.4,17.1,Debit Card,Regular
+621,16-10-2025,DMart Central,Aurangabad,Dettol Handwash 250ml,Personal Care,Dettol,7,95,10,85.5,598.5,478.8,119.7,Cash,Regular
+622,04-09-2025,DMart East,Nashik,Nescafe Classic 100g,Beverages,Nescafe,8,310,20,248,1984,1785.6,198.4,Credit Card,New Customer
+623,04-12-2025,DMart South,Aurangabad,Surf Excel Matic 2kg,Home Care,Surf Excel,3,410,10,369,1107,885.6,221.4,UPI,New Customer
+624,30-10-2025,DMart Central,Nashik,Britannia Bread 400g,Bakery,Britannia,8,45,10,40.5,324,259.2,64.8,Credit Card,Member
+625,14-04-2025,DMart South,Kolhapur,Surf Excel Matic 2kg,Home Care,Surf Excel,2,410,0,410,820,590.4,229.6,Credit Card,Regular
+626,01-09-2025,DMart South,Solapur,Maggi 2-Minute Noodles 280g,Food,Nestle,2,70,0,70,140,100.8,39.2,Cash,New Customer
+627,04-09-2025,DMart East,Solapur,Dettol Handwash 250ml,Personal Care,Dettol,2,95,0,95,190,136.8,53.2,Cash,New Customer
+628,23-01-2025,DMart South,Navi Mumbai,Tata Tea Gold 500g,Beverages,Tata,7,280,0,280,1960,1411.2,548.8,UPI,Member
+629,23-12-2025,DMart South,Pune,Coca-Cola 750ml,Beverages,Coca-Cola,6,45,10,40.5,243,194.4,48.6,Credit Card,Regular
+630,30-04-2025,DMart Central,Aurangabad,Parle-G Biscuits 800g,Food,Parle,8,85,20,68,544,489.6,54.4,Credit Card,Member
+631,04-01-2025,DMart South,Kolhapur,Colgate MaxFresh 150g,Personal Care,Colgate,1,125,15,106.25,106.25,90,16.25,Cash,New Customer
+632,16-04-2025,DMart West,Navi Mumbai,Aashirvaad Atta 5kg,Grocery,Aashirvaad,7,280,15,238,1666,1411.2,254.8,Debit Card,Regular
+633,27-10-2025,DMart West,Aurangabad,Surf Excel Matic 2kg,Home Care,Surf Excel,7,410,15,348.5,2439.5,2066.4,373.1,Credit Card,New Customer
+634,23-07-2025,DMart East,Navi Mumbai,Lay's Classic Salted 52g,Snacks,Lay's,5,25,15,21.25,106.25,90,16.25,Credit Card,Regular
+635,07-06-2025,DMart South,Thane,Lay's Classic Salted 52g,Snacks,Lay's,8,25,0,25,200,144,56,Credit Card,New Customer
+636,28-04-2025,DMart North,Mumbai,Surf Excel Matic 2kg,Home Care,Surf Excel,2,410,15,348.5,697,590.4,106.6,Cash,Regular
+637,23-06-2025,DMart South,Solapur,Dettol Handwash 250ml,Personal Care,Dettol,7,95,20,76,532,478.8,53.2,Cash,Regular
+638,16-02-2025,DMart East,Amravati,Coca-Cola 750ml,Beverages,Coca-Cola,1,45,20,36,36,32.4,3.6,Credit Card,Regular
+639,09-07-2025,DMart Central,Solapur,Tata Salt 1kg,Grocery,Tata,5,28,0,28,140,100.8,39.2,Cash,New Customer
+640,02-12-2025,DMart South,Aurangabad,Coca-Cola 750ml,Beverages,Coca-Cola,7,45,10,40.5,283.5,226.8,56.7,Cash,Regular
+641,14-04-2025,DMart South,Aurangabad,Pampers Diapers M 30s,Baby Care,Pampers,8,650,0,650,5200,3744,1456,UPI,Regular
+642,28-03-2025,DMart Central,Thane,Maggi 2-Minute Noodles 280g,Food,Nestle,4,70,10,63,252,201.6,50.4,UPI,New Customer
+643,22-05-2025,DMart North,Thane,Aashirvaad Atta 5kg,Grocery,Aashirvaad,3,280,0,280,840,604.8,235.2,Credit Card,Member
+644,08-01-2025,DMart Central,Pune,Kissan Tomato Ketchup 1kg,Food,Kissan,4,145,10,130.5,522,417.6,104.4,Debit Card,New Customer
+645,22-05-2025,DMart East,Solapur,Harpic Toilet Cleaner 1L,Home Care,Harpic,6,190,0,190,1140,820.8,319.2,UPI,Member
+646,31-03-2025,DMart North,Kolhapur,Coca-Cola 750ml,Beverages,Coca-Cola,1,45,0,45,45,32.4,12.6,Cash,New Customer
+647,01-03-2025,DMart South,Aurangabad,Tata Salt 1kg,Grocery,Tata,5,28,0,28,140,100.8,39.2,Debit Card,New Customer
+648,05-09-2025,DMart East,Thane,Nescafe Classic 100g,Beverages,Nescafe,7,310,10,279,1953,1562.4,390.6,Credit Card,New Customer
+649,01-03-2025,DMart West,Pune,Nescafe Classic 100g,Beverages,Nescafe,1,310,5,294.5,294.5,223.2,71.3,Credit Card,New Customer
+650,11-06-2025,DMart North,Thane,Dove Soap 100g,Personal Care,Dove,4,62,20,49.6,198.4,178.56,19.84,Cash,New Customer
+651,17-02-2025,DMart North,Thane,Parle-G Biscuits 800g,Food,Parle,4,85,0,85,340,244.8,95.2,Cash,New Customer
+652,01-07-2025,DMart East,Solapur,Vim Dishwash Bar 200g,Home Care,Vim,8,35,0,35,280,201.6,78.4,Debit Card,Regular
+653,13-04-2025,DMart East,Nashik,Colgate MaxFresh 150g,Personal Care,Colgate,8,125,15,106.25,850,720,130,Debit Card,Regular
+654,08-05-2025,DMart South,Thane,Dove Soap 100g,Personal Care,Dove,4,62,20,49.6,198.4,178.56,19.84,UPI,Regular
+655,06-12-2025,DMart North,Solapur,India Gate Basmati Rice 5kg,Grocery,India Gate,2,520,15,442,884,748.8,135.2,Cash,New Customer
+656,14-11-2025,DMart West,Amravati,Fortune Sunflower Oil 1L,Grocery,Fortune,8,145,0,145,1160,835.2,324.8,Debit Card,Member
+657,24-04-2025,DMart South,Mumbai,Vim Dishwash Bar 200g,Home Care,Vim,5,35,5,33.25,166.25,126,40.25,Cash,New Customer
+658,17-01-2025,DMart South,Thane,Tata Tea Gold 500g,Beverages,Tata,8,280,10,252,2016,1612.8,403.2,Credit Card,New Customer
+659,24-12-2025,DMart South,Amravati,Vim Dishwash Bar 200g,Home Care,Vim,8,35,0,35,280,201.6,78.4,Debit Card,New Customer
+660,18-04-2025,DMart North,Solapur,Aashirvaad Atta 5kg,Grocery,Aashirvaad,1,280,15,238,238,201.6,36.4,Cash,Member
+661,08-10-2025,DMart West,Nashik,Lay's Classic Salted 52g,Snacks,Lay's,5,25,0,25,125,90,35,Debit Card,Member
+662,05-04-2025,DMart North,Navi Mumbai,Maggi 2-Minute Noodles 280g,Food,Nestle,6,70,0,70,420,302.4,117.6,UPI,Member
+663,25-07-2025,DMart West,Amravati,Lay's Classic Salted 52g,Snacks,Lay's,6,25,20,20,120,108,12,UPI,New Customer
+664,21-02-2025,DMart West,Nashik,Surf Excel Matic 2kg,Home Care,Surf Excel,4,410,20,328,1312,1180.8,131.2,Credit Card,Member
+665,18-03-2025,DMart North,Nagpur,Colgate MaxFresh 150g,Personal Care,Colgate,3,125,20,100,300,270,30,UPI,Member
+666,19-11-2025,DMart South,Kolhapur,Pampers Diapers M 30s,Baby Care,Pampers,3,650,20,520,1560,1404,156,Debit Card,Member
+667,18-10-2025,DMart Central,Navi Mumbai,Amul Taaza Milk 1L,Dairy,Amul,5,62,10,55.8,279,223.2,55.8,Cash,New Customer
+668,11-05-2025,DMart North,Pune,Vim Dishwash Bar 200g,Home Care,Vim,1,35,0,35,35,25.2,9.8,Credit Card,New Customer
+669,04-07-2025,DMart South,Kolhapur,Britannia Bread 400g,Bakery,Britannia,5,45,0,45,225,162,63,Debit Card,Member
+670,29-06-2025,DMart South,Nashik,Aashirvaad Atta 5kg,Grocery,Aashirvaad,7,280,0,280,1960,1411.2,548.8,UPI,Member
+671,19-09-2025,DMart North,Amravati,Lay's Classic Salted 52g,Snacks,Lay's,6,25,15,21.25,127.5,108,19.5,Cash,Member
+672,20-11-2025,DMart East,Mumbai,Maggi 2-Minute Noodles 280g,Food,Nestle,5,70,5,66.5,332.5,252,80.5,Debit Card,Member
+673,06-02-2025,DMart Central,Mumbai,Maggi 2-Minute Noodles 280g,Food,Nestle,7,70,20,56,392,352.8,39.2,Debit Card,Regular
+674,30-05-2025,DMart West,Solapur,Britannia Bread 400g,Bakery,Britannia,6,45,15,38.25,229.5,194.4,35.1,Credit Card,Member
+675,28-10-2025,DMart South,Amravati,Nescafe Classic 100g,Beverages,Nescafe,6,310,15,263.5,1581,1339.2,241.8,Credit Card,Regular
+676,01-05-2025,DMart West,Pune,Vim Dishwash Bar 200g,Home Care,Vim,1,35,0,35,35,25.2,9.8,UPI,Regular
+677,02-02-2025,DMart North,Kolhapur,Coca-Cola 750ml,Beverages,Coca-Cola,2,45,0,45,90,64.8,25.2,Cash,Regular
+678,15-05-2025,DMart South,Mumbai,Coca-Cola 750ml,Beverages,Coca-Cola,2,45,0,45,90,64.8,25.2,Cash,New Customer
+679,07-05-2025,DMart West,Amravati,Coca-Cola 750ml,Beverages,Coca-Cola,5,45,0,45,225,162,63,UPI,Regular
+680,18-01-2025,DMart West,Thane,Dettol Handwash 250ml,Personal Care,Dettol,3,95,0,95,285,205.2,79.8,Credit Card,Member
+681,16-08-2025,DMart East,Kolhapur,Harpic Toilet Cleaner 1L,Home Care,Harpic,5,190,10,171,855,684,171,UPI,New Customer
+682,22-11-2025,DMart South,Navi Mumbai,Maggi 2-Minute Noodles 280g,Food,Nestle,8,70,15,59.5,476,403.2,72.8,Debit Card,Member
+683,15-02-2025,DMart North,Aurangabad,Pampers Diapers M 30s,Baby Care,Pampers,4,650,20,520,2080,1872,208,Debit Card,Member
+684,06-01-2025,DMart Central,Kolhapur,Parle-G Biscuits 800g,Food,Parle,3,85,0,85,255,183.6,71.4,UPI,Member
+685,05-01-2025,DMart North,Amravati,Amul Taaza Milk 1L,Dairy,Amul,8,62,10,55.8,446.4,357.12,89.28,Debit Card,Regular
+686,29-04-2025,DMart Central,Kolhapur,Tata Tea Gold 500g,Beverages,Tata,5,280,10,252,1260,1008,252,Debit Card,Regular
+687,08-05-2025,DMart East,Navi Mumbai,Tata Tea Gold 500g,Beverages,Tata,7,280,5,266,1862,1411.2,450.8,Credit Card,Regular
+688,17-11-2025,DMart East,Kolhapur,Parle-G Biscuits 800g,Food,Parle,2,85,5,80.75,161.5,122.4,39.1,Debit Card,Member
+689,07-04-2025,DMart Central,Mumbai,Harpic Toilet Cleaner 1L,Home Care,Harpic,5,190,5,180.5,902.5,684,218.5,UPI,Member
+690,20-08-2025,DMart West,Solapur,India Gate Basmati Rice 5kg,Grocery,India Gate,8,520,10,468,3744,2995.2,748.8,Credit Card,Regular
+691,26-01-2025,DMart South,Nagpur,Britannia Bread 400g,Bakery,Britannia,1,45,0,45,45,32.4,12.6,UPI,Regular
+692,13-08-2025,DMart Central,Nashik,Amul Taaza Milk 1L,Dairy,Amul,5,62,0,62,310,223.2,86.8,Cash,Regular
+693,25-06-2025,DMart North,Aurangabad,Aashirvaad Atta 5kg,Grocery,Aashirvaad,8,280,0,280,2240,1612.8,627.2,Credit Card,Member
+694,11-02-2025,DMart East,Nagpur,Nescafe Classic 100g,Beverages,Nescafe,1,310,0,310,310,223.2,86.8,Debit Card,Member
+695,09-04-2025,DMart West,Navi Mumbai,Tata Salt 1kg,Grocery,Tata,8,28,0,28,224,161.28,62.72,Cash,Regular
+696,15-08-2025,DMart East,Nagpur,Dove Soap 100g,Personal Care,Dove,7,62,20,49.6,347.2,312.48,34.72,UPI,Member
+697,19-07-2025,DMart West,Thane,India Gate Basmati Rice 5kg,Grocery,India Gate,4,520,5,494,1976,1497.6,478.4,UPI,New Customer
+698,04-09-2025,DMart West,Nashik,Fortune Sunflower Oil 1L,Grocery,Fortune,2,145,0,145,290,208.8,81.2,Debit Card,Regular
+699,21-11-2025,DMart North,Thane,Colgate MaxFresh 150g,Personal Care,Colgate,2,125,0,125,250,180,70,Cash,Regular
+700,05-05-2025,DMart Central,Nagpur,Parle-G Biscuits 800g,Food,Parle,2,85,5,80.75,161.5,122.4,39.1,Credit Card,New Customer
+701,15-02-2025,DMart East,Mumbai,Maggi 2-Minute Noodles 280g,Food,Nestle,3,70,0,70,210,151.2,58.8,Credit Card,Regular
+702,17-11-2025,DMart Central,Nagpur,Maggi 2-Minute Noodles 280g,Food,Nestle,6,70,20,56,336,302.4,33.6,Debit Card,New Customer
+703,07-09-2025,DMart East,Thane,Surf Excel Matic 2kg,Home Care,Surf Excel,2,410,0,410,820,590.4,229.6,Debit Card,Member
+704,13-07-2025,DMart West,Mumbai,Colgate MaxFresh 150g,Personal Care,Colgate,1,125,15,106.25,106.25,90,16.25,Debit Card,Regular
+705,31-05-2025,DMart South,Amravati,Pampers Diapers M 30s,Baby Care,Pampers,8,650,10,585,4680,3744,936,UPI,New Customer
+706,28-08-2025,DMart West,Solapur,Vim Dishwash Bar 200g,Home Care,Vim,6,35,0,35,210,151.2,58.8,UPI,Regular
+707,01-06-2025,DMart West,Kolhapur,Dettol Handwash 250ml,Personal Care,Dettol,3,95,5,90.25,270.75,205.2,65.55,Debit Card,Member
+708,05-04-2025,DMart Central,Solapur,Aashirvaad Atta 5kg,Grocery,Aashirvaad,7,280,15,238,1666,1411.2,254.8,Debit Card,New Customer
+709,02-02-2025,DMart South,Navi Mumbai,Dove Soap 100g,Personal Care,Dove,6,62,15,52.7,316.2,267.84,48.36,UPI,New Customer
+710,25-05-2025,DMart West,Navi Mumbai,Pampers Diapers M 30s,Baby Care,Pampers,3,650,10,585,1755,1404,351,Debit Card,Regular
+711,08-03-2025,DMart East,Nagpur,India Gate Basmati Rice 5kg,Grocery,India Gate,2,520,0,520,1040,748.8,291.2,UPI,Regular
+712,17-01-2025,DMart South,Navi Mumbai,Pampers Diapers M 30s,Baby Care,Pampers,4,650,0,650,2600,1872,728,Credit Card,New Customer
+713,07-07-2025,DMart East,Solapur,Maggi 2-Minute Noodles 280g,Food,Nestle,5,70,0,70,350,252,98,Cash,Regular
+714,10-02-2025,DMart North,Nagpur,Colgate MaxFresh 150g,Personal Care,Colgate,8,125,20,100,800,720,80,Debit Card,New Customer
+715,29-12-2025,DMart Central,Solapur,Tata Tea Gold 500g,Beverages,Tata,6,280,20,224,1344,1209.6,134.4,Debit Card,New Customer
+716,05-06-2025,DMart Central,Nashik,Fortune Sunflower Oil 1L,Grocery,Fortune,2,145,20,116,232,208.8,23.2,Cash,Regular
+717,09-04-2025,DMart South,Nashik,Dove Soap 100g,Personal Care,Dove,7,62,0,62,434,312.48,121.52,UPI,New Customer
+718,24-02-2025,DMart South,Thane,Harpic Toilet Cleaner 1L,Home Care,Harpic,7,190,15,161.5,1130.5,957.6,172.9,Credit Card,New Customer
+719,03-04-2025,DMart South,Navi Mumbai,Tata Tea Gold 500g,Beverages,Tata,2,280,0,280,560,403.2,156.8,Debit Card,New Customer
+720,11-06-2025,DMart South,Thane,Vim Dishwash Bar 200g,Home Care,Vim,8,35,0,35,280,201.6,78.4,Debit Card,Member
+721,04-05-2025,DMart South,Kolhapur,Tata Tea Gold 500g,Beverages,Tata,6,280,10,252,1512,1209.6,302.4,UPI,Member
+722,20-08-2025,DMart North,Navi Mumbai,Harpic Toilet Cleaner 1L,Home Care,Harpic,5,190,0,190,950,684,266,Cash,New Customer
+723,09-01-2025,DMart South,Mumbai,Fortune Sunflower Oil 1L,Grocery,Fortune,5,145,10,130.5,652.5,522,130.5,Debit Card,Regular
+724,11-06-2025,DMart Central,Aurangabad,Amul Taaza Milk 1L,Dairy,Amul,4,62,0,62,248,178.56,69.44,UPI,Regular
+725,21-03-2025,DMart East,Aurangabad,Fortune Sunflower Oil 1L,Grocery,Fortune,8,145,0,145,1160,835.2,324.8,Debit Card,New Customer
+726,03-06-2025,DMart Central,Solapur,Dove Soap 100g,Personal Care,Dove,4,62,0,62,248,178.56,69.44,Credit Card,New Customer
+727,16-06-2025,DMart North,Mumbai,Colgate MaxFresh 150g,Personal Care,Colgate,2,125,15,106.25,212.5,180,32.5,Credit Card,New Customer
+728,25-11-2025,DMart West,Nagpur,Kissan Tomato Ketchup 1kg,Food,Kissan,2,145,10,130.5,261,208.8,52.2,Credit Card,Regular
+729,11-08-2025,DMart North,Pune,Fortune Sunflower Oil 1L,Grocery,Fortune,6,145,0,145,870,626.4,243.6,UPI,New Customer
+730,20-11-2025,DMart North,Nagpur,Maggi 2-Minute Noodles 280g,Food,Nestle,1,70,15,59.5,59.5,50.4,9.1,Debit Card,New Customer
+731,17-10-2025,DMart East,Thane,Fortune Sunflower Oil 1L,Grocery,Fortune,6,145,10,130.5,783,626.4,156.6,UPI,Regular
+732,01-11-2025,DMart South,Kolhapur,Fortune Sunflower Oil 1L,Grocery,Fortune,7,145,5,137.75,964.25,730.8,233.45,Cash,Regular
+733,21-07-2025,DMart East,Mumbai,Tata Tea Gold 500g,Beverages,Tata,5,280,20,224,1120,1008,112,Debit Card,Regular
+734,24-07-2025,DMart West,Pune,Pampers Diapers M 30s,Baby Care,Pampers,1,650,10,585,585,468,117,Credit Card,New Customer
+735,11-03-2025,DMart North,Kolhapur,Tata Tea Gold 500g,Beverages,Tata,3,280,20,224,672,604.8,67.2,UPI,Member
+736,12-11-2025,DMart South,Nashik,Coca-Cola 750ml,Beverages,Coca-Cola,4,45,10,40.5,162,129.6,32.4,UPI,Regular
+737,17-12-2025,DMart South,Pune,Parle-G Biscuits 800g,Food,Parle,7,85,0,85,595,428.4,166.6,Cash,New Customer
+738,28-06-2025,DMart East,Thane,Tata Tea Gold 500g,Beverages,Tata,7,280,0,280,1960,1411.2,548.8,Debit Card,New Customer
+739,29-06-2025,DMart South,Amravati,Aashirvaad Atta 5kg,Grocery,Aashirvaad,5,280,0,280,1400,1008,392,UPI,Member
+740,17-12-2025,DMart West,Mumbai,Fortune Sunflower Oil 1L,Grocery,Fortune,4,145,0,145,580,417.6,162.4,Cash,Regular
+741,17-03-2025,DMart West,Nagpur,Fortune Sunflower Oil 1L,Grocery,Fortune,4,145,10,130.5,522,417.6,104.4,Debit Card,New Customer
+742,30-08-2025,DMart Central,Thane,India Gate Basmati Rice 5kg,Grocery,India Gate,5,520,5,494,2470,1872,598,UPI,New Customer
+743,07-10-2025,DMart South,Aurangabad,Harpic Toilet Cleaner 1L,Home Care,Harpic,4,190,0,190,760,547.2,212.8,Credit Card,New Customer
+744,26-10-2025,DMart South,Nagpur,Surf Excel Matic 2kg,Home Care,Surf Excel,1,410,5,389.5,389.5,295.2,94.3,Debit Card,Regular
+745,23-12-2025,DMart South,Aurangabad,Fortune Sunflower Oil 1L,Grocery,Fortune,5,145,0,145,725,522,203,Cash,Member
+746,05-12-2025,DMart West,Thane,Aashirvaad Atta 5kg,Grocery,Aashirvaad,2,280,5,266,532,403.2,128.8,Cash,Regular
+747,14-07-2025,DMart South,Pune,Amul Taaza Milk 1L,Dairy,Amul,7,62,0,62,434,312.48,121.52,Debit Card,Member
+748,12-04-2025,DMart South,Amravati,Maggi 2-Minute Noodles 280g,Food,Nestle,2,70,0,70,140,100.8,39.2,Cash,Regular
+749,08-09-2025,DMart North,Mumbai,Dove Soap 100g,Personal Care,Dove,5,62,0,62,310,223.2,86.8,Cash,Member
+750,04-06-2025,DMart East,Kolhapur,Lay's Classic Salted 52g,Snacks,Lay's,6,25,15,21.25,127.5,108,19.5,Debit Card,Regular
+751,16-01-2025,DMart South,Aurangabad,Parle-G Biscuits 800g,Food,Parle,7,85,20,68,476,428.4,47.6,UPI,Regular
+752,12-03-2025,DMart Central,Navi Mumbai,Britannia Bread 400g,Bakery,Britannia,7,45,15,38.25,267.75,226.8,40.95,UPI,Member
+753,09-06-2025,DMart South,Thane,Dove Soap 100g,Personal Care,Dove,3,62,5,58.9,176.7,133.92,42.78,Credit Card,New Customer
+754,12-03-2025,DMart South,Kolhapur,Surf Excel Matic 2kg,Home Care,Surf Excel,4,410,15,348.5,1394,1180.8,213.2,UPI,Regular
+755,16-03-2025,DMart South,Mumbai,Amul Taaza Milk 1L,Dairy,Amul,3,62,5,58.9,176.7,133.92,42.78,Debit Card,Regular
+756,12-06-2025,DMart East,Nagpur,Harpic Toilet Cleaner 1L,Home Care,Harpic,2,190,0,190,380,273.6,106.4,Debit Card,Member
+757,23-11-2025,DMart West,Mumbai,Tata Tea Gold 500g,Beverages,Tata,5,280,5,266,1330,1008,322,UPI,Regular
+758,10-11-2025,DMart South,Aurangabad,Surf Excel Matic 2kg,Home Care,Surf Excel,3,410,0,410,1230,885.6,344.4,UPI,New Customer
+759,14-01-2025,DMart West,Pune,Dove Soap 100g,Personal Care,Dove,4,62,15,52.7,210.8,178.56,32.24,Credit Card,Regular
+760,29-11-2025,DMart West,Mumbai,Dettol Handwash 250ml,Personal Care,Dettol,8,95,15,80.75,646,547.2,98.8,Credit Card,Member
+761,09-04-2025,DMart East,Nagpur,Pampers Diapers M 30s,Baby Care,Pampers,3,650,0,650,1950,1404,546,Credit Card,Regular
+762,10-12-2025,DMart East,Nashik,Parle-G Biscuits 800g,Food,Parle,7,85,0,85,595,428.4,166.6,Cash,Regular
+763,16-06-2025,DMart North,Nashik,Nescafe Classic 100g,Beverages,Nescafe,8,310,15,263.5,2108,1785.6,322.4,Credit Card,Member
+764,10-06-2025,DMart North,Solapur,Fortune Sunflower Oil 1L,Grocery,Fortune,7,145,15,123.25,862.75,730.8,131.95,Cash,New Customer
+765,22-01-2025,DMart East,Kolhapur,India Gate Basmati Rice 5kg,Grocery,India Gate,8,520,5,494,3952,2995.2,956.8,Credit Card,New Customer
+766,19-11-2025,DMart Central,Nashik,Fortune Sunflower Oil 1L,Grocery,Fortune,7,145,10,130.5,913.5,730.8,182.7,Debit Card,Member
+767,27-05-2025,DMart North,Mumbai,Coca-Cola 750ml,Beverages,Coca-Cola,5,45,20,36,180,162,18,Credit Card,Member
+768,22-09-2025,DMart East,Amravati,Maggi 2-Minute Noodles 280g,Food,Nestle,1,70,15,59.5,59.5,50.4,9.1,Credit Card,Regular
+769,27-10-2025,DMart South,Mumbai,Dettol Handwash 250ml,Personal Care,Dettol,2,95,0,95,190,136.8,53.2,Credit Card,Member
+770,02-04-2025,DMart North,Solapur,Britannia Bread 400g,Bakery,Britannia,8,45,0,45,360,259.2,100.8,UPI,Member
+771,21-12-2025,DMart East,Pune,Tata Salt 1kg,Grocery,Tata,5,28,0,28,140,100.8,39.2,Cash,Regular
+772,26-09-2025,DMart North,Kolhapur,Nescafe Classic 100g,Beverages,Nescafe,6,310,0,310,1860,1339.2,520.8,UPI,Member
+773,29-03-2025,DMart West,Solapur,Harpic Toilet Cleaner 1L,Home Care,Harpic,7,190,0,190,1330,957.6,372.4,UPI,Regular
+774,31-12-2025,DMart Central,Navi Mumbai,Surf Excel Matic 2kg,Home Care,Surf Excel,3,410,20,328,984,885.6,98.4,Debit Card,Member
+775,03-04-2025,DMart Central,Mumbai,Nescafe Classic 100g,Beverages,Nescafe,5,310,15,263.5,1317.5,1116,201.5,UPI,Regular
+776,23-08-2025,DMart North,Amravati,Maggi 2-Minute Noodles 280g,Food,Nestle,5,70,0,70,350,252,98,Cash,New Customer
+777,29-10-2025,DMart North,Amravati,Pampers Diapers M 30s,Baby Care,Pampers,4,650,0,650,2600,1872,728,Credit Card,Member
+778,08-10-2025,DMart West,Solapur,Tata Salt 1kg,Grocery,Tata,1,28,0,28,28,20.16,7.84,UPI,Regular
+779,01-12-2025,DMart West,Nagpur,Vim Dishwash Bar 200g,Home Care,Vim,3,35,0,35,105,75.6,29.4,UPI,Regular
+780,14-02-2025,DMart Central,Pune,Kissan Tomato Ketchup 1kg,Food,Kissan,5,145,0,145,725,522,203,Credit Card,Regular
+781,05-12-2025,DMart South,Solapur,Vim Dishwash Bar 200g,Home Care,Vim,5,35,10,31.5,157.5,126,31.5,UPI,Member
+782,17-02-2025,DMart West,Thane,Kissan Tomato Ketchup 1kg,Food,Kissan,6,145,0,145,870,626.4,243.6,Debit Card,Member
+783,09-10-2025,DMart Central,Aurangabad,Tata Salt 1kg,Grocery,Tata,7,28,20,22.4,156.8,141.12,15.68,Credit Card,Regular
+784,27-09-2025,DMart North,Kolhapur,India Gate Basmati Rice 5kg,Grocery,India Gate,5,520,0,520,2600,1872,728,UPI,New Customer
+785,20-10-2025,DMart South,Pune,Colgate MaxFresh 150g,Personal Care,Colgate,1,125,0,125,125,90,35,Credit Card,New Customer
+786,08-11-2025,DMart West,Aurangabad,Maggi 2-Minute Noodles 280g,Food,Nestle,5,70,5,66.5,332.5,252,80.5,Debit Card,Regular
+787,20-11-2025,DMart North,Amravati,Maggi 2-Minute Noodles 280g,Food,Nestle,8,70,10,63,504,403.2,100.8,UPI,New Customer
+788,01-01-2025,DMart Central,Nagpur,Dove Soap 100g,Personal Care,Dove,5,62,0,62,310,223.2,86.8,Credit Card,New Customer
+789,12-11-2025,DMart North,Navi Mumbai,India Gate Basmati Rice 5kg,Grocery,India Gate,4,520,20,416,1664,1497.6,166.4,Cash,Member
+790,24-11-2025,DMart East,Aurangabad,Lay's Classic Salted 52g,Snacks,Lay's,4,25,0,25,100,72,28,Debit Card,Regular
+791,09-10-2025,DMart West,Nagpur,Amul Taaza Milk 1L,Dairy,Amul,5,62,10,55.8,279,223.2,55.8,Cash,New Customer
+792,19-10-2025,DMart South,Nagpur,Britannia Bread 400g,Bakery,Britannia,6,45,5,42.75,256.5,194.4,62.1,UPI,Regular
+793,03-09-2025,DMart North,Nagpur,Britannia Bread 400g,Bakery,Britannia,6,45,15,38.25,229.5,194.4,35.1,UPI,Member
+794,02-10-2025,DMart West,Amravati,Surf Excel Matic 2kg,Home Care,Surf Excel,8,410,20,328,2624,2361.6,262.4,Credit Card,New Customer
+795,14-12-2025,DMart West,Kolhapur,Fortune Sunflower Oil 1L,Grocery,Fortune,5,145,10,130.5,652.5,522,130.5,Cash,Regular
+796,01-07-2025,DMart Central,Mumbai,Kissan Tomato Ketchup 1kg,Food,Kissan,6,145,20,116,696,626.4,69.6,Debit Card,Regular
+797,01-10-2025,DMart East,Solapur,Britannia Bread 400g,Bakery,Britannia,7,45,15,38.25,267.75,226.8,40.95,Credit Card,Regular
+798,07-06-2025,DMart West,Nagpur,Maggi 2-Minute Noodles 280g,Food,Nestle,2,70,20,56,112,100.8,11.2,Debit Card,Member
+799,10-07-2025,DMart North,Aurangabad,Tata Salt 1kg,Grocery,Tata,8,28,0,28,224,161.28,62.72,UPI,New Customer
+800,11-07-2025,DMart Central,Nashik,Amul Taaza Milk 1L,Dairy,Amul,3,62,0,62,186,133.92,52.08,Cash,Member
+801,05-09-2025,DMart South,Mumbai,Dettol Handwash 250ml,Personal Care,Dettol,1,95,20,76,76,68.4,7.6,UPI,Member
+802,17-06-2025,DMart East,Pune,Pampers Diapers M 30s,Baby Care,Pampers,5,650,20,520,2600,2340,260,UPI,Regular
+803,25-09-2025,DMart Central,Nagpur,Fortune Sunflower Oil 1L,Grocery,Fortune,8,145,5,137.75,1102,835.2,266.8,Debit Card,Regular
+804,28-08-2025,DMart Central,Pune,Maggi 2-Minute Noodles 280g,Food,Nestle,2,70,0,70,140,100.8,39.2,Debit Card,Regular
+805,18-04-2025,DMart West,Nashik,Kissan Tomato Ketchup 1kg,Food,Kissan,5,145,15,123.25,616.25,522,94.25,UPI,Member
+806,14-08-2025,DMart Central,Aurangabad,Parle-G Biscuits 800g,Food,Parle,6,85,20,68,408,367.2,40.8,UPI,Regular
+807,15-11-2025,DMart South,Kolhapur,Parle-G Biscuits 800g,Food,Parle,2,85,0,85,170,122.4,47.6,Cash,Regular
+808,13-06-2025,DMart West,Mumbai,Harpic Toilet Cleaner 1L,Home Care,Harpic,6,190,10,171,1026,820.8,205.2,Debit Card,New Customer
+809,09-06-2025,DMart South,Thane,Dove Soap 100g,Personal Care,Dove,3,62,0,62,186,133.92,52.08,Credit Card,Regular
+810,12-12-2025,DMart Central,Pune,Surf Excel Matic 2kg,Home Care,Surf Excel,1,410,5,389.5,389.5,295.2,94.3,Credit Card,Regular
+811,02-04-2025,DMart South,Solapur,Tata Salt 1kg,Grocery,Tata,7,28,5,26.6,186.2,141.12,45.08,Credit Card,New Customer
+812,12-04-2025,DMart South,Pune,Lay's Classic Salted 52g,Snacks,Lay's,5,25,0,25,125,90,35,Credit Card,New Customer
+813,24-12-2025,DMart North,Pune,Surf Excel Matic 2kg,Home Care,Surf Excel,2,410,20,328,656,590.4,65.6,Credit Card,Member
+814,25-04-2025,DMart East,Solapur,Nescafe Classic 100g,Beverages,Nescafe,8,310,0,310,2480,1785.6,694.4,Debit Card,Member
+815,07-12-2025,DMart West,Thane,Coca-Cola 750ml,Beverages,Coca-Cola,3,45,15,38.25,114.75,97.2,17.55,Credit Card,Member
+816,27-02-2025,DMart West,Amravati,Aashirvaad Atta 5kg,Grocery,Aashirvaad,2,280,5,266,532,403.2,128.8,Credit Card,Regular
+817,22-10-2025,DMart East,Kolhapur,Amul Taaza Milk 1L,Dairy,Amul,6,62,10,55.8,334.8,267.84,66.96,Cash,Member
+818,29-11-2025,DMart Central,Aurangabad,India Gate Basmati Rice 5kg,Grocery,India Gate,6,520,10,468,2808,2246.4,561.6,Credit Card,Member
+819,14-11-2025,DMart East,Kolhapur,Kissan Tomato Ketchup 1kg,Food,Kissan,7,145,0,145,1015,730.8,284.2,UPI,Member
+820,17-04-2025,DMart South,Navi Mumbai,Coca-Cola 750ml,Beverages,Coca-Cola,2,45,0,45,90,64.8,25.2,Credit Card,New Customer
+821,06-12-2025,DMart Central,Solapur,Britannia Bread 400g,Bakery,Britannia,4,45,0,45,180,129.6,50.4,Credit Card,Regular
+822,12-10-2025,DMart Central,Amravati,Kissan Tomato Ketchup 1kg,Food,Kissan,8,145,0,145,1160,835.2,324.8,UPI,Member
+823,25-02-2025,DMart South,Navi Mumbai,Coca-Cola 750ml,Beverages,Coca-Cola,2,45,10,40.5,81,64.8,16.2,Debit Card,Member
+824,13-03-2025,DMart South,Nagpur,Fortune Sunflower Oil 1L,Grocery,Fortune,2,145,0,145,290,208.8,81.2,UPI,New Customer
+825,30-05-2025,DMart North,Solapur,Surf Excel Matic 2kg,Home Care,Surf Excel,8,410,10,369,2952,2361.6,590.4,Credit Card,Regular
+826,19-10-2025,DMart West,Navi Mumbai,Colgate MaxFresh 150g,Personal Care,Colgate,6,125,0,125,750,540,210,Debit Card,Regular
+827,19-09-2025,DMart North,Mumbai,Kissan Tomato Ketchup 1kg,Food,Kissan,1,145,10,130.5,130.5,104.4,26.1,Debit Card,Regular
+828,27-12-2025,DMart South,Thane,Lay's Classic Salted 52g,Snacks,Lay's,1,25,0,25,25,18,7,Cash,Member
+829,26-12-2025,DMart South,Navi Mumbai,Aashirvaad Atta 5kg,Grocery,Aashirvaad,4,280,5,266,1064,806.4,257.6,Debit Card,New Customer
+830,11-08-2025,DMart South,Nashik,Coca-Cola 750ml,Beverages,Coca-Cola,7,45,5,42.75,299.25,226.8,72.45,UPI,Member
+831,16-07-2025,DMart West,Navi Mumbai,Surf Excel Matic 2kg,Home Care,Surf Excel,4,410,10,369,1476,1180.8,295.2,UPI,Member
+832,06-02-2025,DMart Central,Mumbai,Surf Excel Matic 2kg,Home Care,Surf Excel,3,410,0,410,1230,885.6,344.4,Credit Card,New Customer
+833,12-03-2025,DMart North,Amravati,Tata Tea Gold 500g,Beverages,Tata,3,280,0,280,840,604.8,235.2,Credit Card,New Customer
+834,06-08-2025,DMart South,Amravati,Vim Dishwash Bar 200g,Home Care,Vim,8,35,10,31.5,252,201.6,50.4,Credit Card,Member
+835,06-11-2025,DMart Central,Solapur,Dove Soap 100g,Personal Care,Dove,3,62,5,58.9,176.7,133.92,42.78,Credit Card,New Customer
+836,07-10-2025,DMart South,Thane,Dove Soap 100g,Personal Care,Dove,5,62,5,58.9,294.5,223.2,71.3,Cash,Regular
+837,08-07-2025,DMart Central,Solapur,Kissan Tomato Ketchup 1kg,Food,Kissan,8,145,15,123.25,986,835.2,150.8,Credit Card,New Customer
+838,27-09-2025,DMart West,Amravati,Tata Salt 1kg,Grocery,Tata,3,28,15,23.8,71.4,60.48,10.92,Cash,New Customer
+839,30-08-2025,DMart Central,Kolhapur,Maggi 2-Minute Noodles 280g,Food,Nestle,2,70,0,70,140,100.8,39.2,Debit Card,New Customer
+840,06-01-2025,DMart North,Amravati,Fortune Sunflower Oil 1L,Grocery,Fortune,6,145,10,130.5,783,626.4,156.6,Credit Card,New Customer
+841,31-05-2025,DMart West,Mumbai,Britannia Bread 400g,Bakery,Britannia,7,45,0,45,315,226.8,88.2,Cash,New Customer
+842,16-10-2025,DMart West,Nagpur,Maggi 2-Minute Noodles 280g,Food,Nestle,5,70,15,59.5,297.5,252,45.5,Credit Card,New Customer
+843,30-05-2025,DMart South,Nagpur,Vim Dishwash Bar 200g,Home Care,Vim,1,35,15,29.75,29.75,25.2,4.55,Debit Card,Member
+844,09-02-2025,DMart West,Aurangabad,Tata Salt 1kg,Grocery,Tata,3,28,10,25.2,75.6,60.48,15.12,UPI,New Customer
+845,12-05-2025,DMart Central,Pune,Parle-G Biscuits 800g,Food,Parle,5,85,20,68,340,306,34,UPI,New Customer
+846,31-03-2025,DMart West,Nashik,Surf Excel Matic 2kg,Home Care,Surf Excel,8,410,0,410,3280,2361.6,918.4,Credit Card,Regular
+847,13-02-2025,DMart East,Solapur,Dettol Handwash 250ml,Personal Care,Dettol,1,95,0,95,95,68.4,26.6,UPI,Member
+848,05-12-2025,DMart North,Mumbai,Tata Tea Gold 500g,Beverages,Tata,7,280,0,280,1960,1411.2,548.8,UPI,New Customer
+849,16-05-2025,DMart Central,Nagpur,Lay's Classic Salted 52g,Snacks,Lay's,1,25,15,21.25,21.25,18,3.25,UPI,Member
+850,01-09-2025,DMart South,Nashik,Coca-Cola 750ml,Beverages,Coca-Cola,8,45,0,45,360,259.2,100.8,Credit Card,New Customer
+851,16-03-2025,DMart South,Navi Mumbai,Coca-Cola 750ml,Beverages,Coca-Cola,8,45,0,45,360,259.2,100.8,Cash,Member
+852,11-06-2025,DMart South,Nagpur,Nescafe Classic 100g,Beverages,Nescafe,7,310,15,263.5,1844.5,1562.4,282.1,Cash,New Customer
+853,30-11-2025,DMart West,Thane,Lay's Classic Salted 52g,Snacks,Lay's,7,25,10,22.5,157.5,126,31.5,Debit Card,Member
+854,27-10-2025,DMart North,Amravati,India Gate Basmati Rice 5kg,Grocery,India Gate,5,520,15,442,2210,1872,338,UPI,New Customer
+855,22-06-2025,DMart East,Thane,Kissan Tomato Ketchup 1kg,Food,Kissan,4,145,10,130.5,522,417.6,104.4,Cash,New Customer
+856,30-07-2025,DMart Central,Kolhapur,Aashirvaad Atta 5kg,Grocery,Aashirvaad,2,280,0,280,560,403.2,156.8,Cash,New Customer
+857,26-05-2025,DMart West,Nashik,Nescafe Classic 100g,Beverages,Nescafe,6,310,0,310,1860,1339.2,520.8,Cash,Regular
+858,01-11-2025,DMart East,Solapur,Maggi 2-Minute Noodles 280g,Food,Nestle,2,70,0,70,140,100.8,39.2,Cash,New Customer
+859,06-11-2025,DMart East,Navi Mumbai,India Gate Basmati Rice 5kg,Grocery,India Gate,2,520,20,416,832,748.8,83.2,UPI,Regular
+860,28-08-2025,DMart Central,Amravati,Vim Dishwash Bar 200g,Home Care,Vim,5,35,0,35,175,126,49,Debit Card,Member
+861,07-02-2025,DMart West,Nagpur,Britannia Bread 400g,Bakery,Britannia,5,45,0,45,225,162,63,Credit Card,Member
+862,16-05-2025,DMart East,Amravati,Britannia Bread 400g,Bakery,Britannia,1,45,0,45,45,32.4,12.6,Cash,Member
+863,27-11-2025,DMart North,Pune,Colgate MaxFresh 150g,Personal Care,Colgate,7,125,0,125,875,630,245,UPI,New Customer
+864,26-11-2025,DMart Central,Amravati,Tata Tea Gold 500g,Beverages,Tata,4,280,10,252,1008,806.4,201.6,Debit Card,Regular
+865,20-10-2025,DMart West,Amravati,Fortune Sunflower Oil 1L,Grocery,Fortune,2,145,0,145,290,208.8,81.2,Cash,Member
+866,07-12-2025,DMart North,Aurangabad,Surf Excel Matic 2kg,Home Care,Surf Excel,1,410,0,410,410,295.2,114.8,UPI,New Customer
+867,02-01-2025,DMart South,Amravati,Britannia Bread 400g,Bakery,Britannia,7,45,10,40.5,283.5,226.8,56.7,Credit Card,Member
+868,26-04-2025,DMart Central,Navi Mumbai,Coca-Cola 750ml,Beverages,Coca-Cola,2,45,10,40.5,81,64.8,16.2,Credit Card,Regular
+869,16-12-2025,DMart West,Navi Mumbai,Kissan Tomato Ketchup 1kg,Food,Kissan,6,145,0,145,870,626.4,243.6,Cash,New Customer
+870,24-06-2025,DMart Central,Amravati,Tata Salt 1kg,Grocery,Tata,6,28,10,25.2,151.2,120.96,30.24,Debit Card,New Customer
+871,21-01-2025,DMart North,Nashik,Colgate MaxFresh 150g,Personal Care,Colgate,3,125,10,112.5,337.5,270,67.5,Debit Card,New Customer
+872,19-12-2025,DMart West,Amravati,Coca-Cola 750ml,Beverages,Coca-Cola,2,45,15,38.25,76.5,64.8,11.7,Cash,New Customer
+873,19-01-2025,DMart East,Nagpur,Nescafe Classic 100g,Beverages,Nescafe,4,310,0,310,1240,892.8,347.2,UPI,Member
+874,04-10-2025,DMart West,Amravati,Coca-Cola 750ml,Beverages,Coca-Cola,2,45,20,36,72,64.8,7.2,Credit Card,Regular
+875,22-06-2025,DMart Central,Navi Mumbai,Fortune Sunflower Oil 1L,Grocery,Fortune,6,145,0,145,870,626.4,243.6,Cash,Regular
+876,02-10-2025,DMart East,Solapur,Dettol Handwash 250ml,Personal Care,Dettol,8,95,15,80.75,646,547.2,98.8,UPI,Regular
+877,01-12-2025,DMart Central,Amravati,Fortune Sunflower Oil 1L,Grocery,Fortune,3,145,5,137.75,413.25,313.2,100.05,Cash,Regular
+878,20-11-2025,DMart Central,Aurangabad,Surf Excel Matic 2kg,Home Care,Surf Excel,1,410,0,410,410,295.2,114.8,Cash,Member
+879,30-10-2025,DMart Central,Pune,Maggi 2-Minute Noodles 280g,Food,Nestle,3,70,20,56,168,151.2,16.8,Cash,Member
+880,14-04-2025,DMart North,Thane,Maggi 2-Minute Noodles 280g,Food,Nestle,4,70,0,70,280,201.6,78.4,Credit Card,Member
+881,20-04-2025,DMart Central,Solapur,India Gate Basmati Rice 5kg,Grocery,India Gate,3,520,0,520,1560,1123.2,436.8,UPI,Member
+882,14-03-2025,DMart North,Mumbai,Tata Salt 1kg,Grocery,Tata,2,28,0,28,56,40.32,15.68,Debit Card,New Customer
+883,25-10-2025,DMart Central,Mumbai,Vim Dishwash Bar 200g,Home Care,Vim,8,35,0,35,280,201.6,78.4,Cash,New Customer
+884,22-03-2025,DMart Central,Amravati,Maggi 2-Minute Noodles 280g,Food,Nestle,7,70,20,56,392,352.8,39.2,Cash,Regular
+885,28-12-2025,DMart South,Aurangabad,Aashirvaad Atta 5kg,Grocery,Aashirvaad,3,280,0,280,840,604.8,235.2,Credit Card,New Customer
+886,15-03-2025,DMart West,Kolhapur,Pampers Diapers M 30s,Baby Care,Pampers,3,650,0,650,1950,1404,546,Credit Card,Member
+887,21-12-2025,DMart Central,Solapur,Dove Soap 100g,Personal Care,Dove,3,62,10,55.8,167.4,133.92,33.48,UPI,New Customer
+888,04-06-2025,DMart West,Navi Mumbai,Pampers Diapers M 30s,Baby Care,Pampers,2,650,15,552.5,1105,936,169,Cash,New Customer
+889,29-09-2025,DMart Central,Solapur,Dove Soap 100g,Personal Care,Dove,4,62,0,62,248,178.56,69.44,Debit Card,New Customer
+890,17-11-2025,DMart East,Aurangabad,Dettol Handwash 250ml,Personal Care,Dettol,4,95,5,90.25,361,273.6,87.4,Cash,Regular
+891,31-08-2025,DMart North,Mumbai,India Gate Basmati Rice 5kg,Grocery,India Gate,3,520,15,442,1326,1123.2,202.8,UPI,New Customer
+892,06-07-2025,DMart West,Nashik,Fortune Sunflower Oil 1L,Grocery,Fortune,1,145,15,123.25,123.25,104.4,18.85,Credit Card,Member
+893,23-02-2025,DMart Central,Kolhapur,Britannia Bread 400g,Bakery,Britannia,8,45,0,45,360,259.2,100.8,UPI,Regular
+894,01-03-2025,DMart Central,Nashik,Aashirvaad Atta 5kg,Grocery,Aashirvaad,8,280,10,252,2016,1612.8,403.2,Credit Card,New Customer
+895,12-04-2025,DMart West,Nashik,Kissan Tomato Ketchup 1kg,Food,Kissan,6,145,5,137.75,826.5,626.4,200.1,Cash,Member
+896,31-07-2025,DMart East,Navi Mumbai,Dove Soap 100g,Personal Care,Dove,2,62,0,62,124,89.28,34.72,UPI,Regular
+897,12-08-2025,DMart East,Nashik,Pampers Diapers M 30s,Baby Care,Pampers,8,650,0,650,5200,3744,1456,Credit Card,Regular
+898,23-08-2025,DMart East,Thane,Coca-Cola 750ml,Beverages,Coca-Cola,6,45,0,45,270,194.4,75.6,Debit Card,Regular
+899,21-12-2025,DMart South,Nagpur,Britannia Bread 400g,Bakery,Britannia,3,45,0,45,135,97.2,37.8,Debit Card,Regular
+900,03-08-2025,DMart East,Thane,India Gate Basmati Rice 5kg,Grocery,India Gate,8,520,5,494,3952,2995.2,956.8,UPI,Member
+901,23-11-2025,DMart South,Mumbai,Maggi 2-Minute Noodles 280g,Food,Nestle,3,70,20,56,168,151.2,16.8,UPI,Regular
+902,21-04-2025,DMart South,Amravati,Tata Tea Gold 500g,Beverages,Tata,8,280,20,224,1792,1612.8,179.2,Credit Card,Member
+903,07-05-2025,DMart East,Thane,Aashirvaad Atta 5kg,Grocery,Aashirvaad,7,280,15,238,1666,1411.2,254.8,Credit Card,New Customer
+904,03-01-2025,DMart North,Nagpur,Dove Soap 100g,Personal Care,Dove,3,62,10,55.8,167.4,133.92,33.48,Cash,Member
+905,29-09-2025,DMart North,Amravati,Dettol Handwash 250ml,Personal Care,Dettol,1,95,5,90.25,90.25,68.4,21.85,Cash,Member
+906,13-10-2025,DMart Central,Navi Mumbai,Pampers Diapers M 30s,Baby Care,Pampers,4,650,0,650,2600,1872,728,UPI,Regular
+907,28-11-2025,DMart Central,Nagpur,Lay's Classic Salted 52g,Snacks,Lay's,5,25,0,25,125,90,35,Credit Card,New Customer
+908,24-08-2025,DMart South,Solapur,Amul Taaza Milk 1L,Dairy,Amul,3,62,15,52.7,158.1,133.92,24.18,Cash,Member
+909,27-12-2025,DMart North,Mumbai,Nescafe Classic 100g,Beverages,Nescafe,3,310,20,248,744,669.6,74.4,Debit Card,New Customer
+910,18-11-2025,DMart Central,Navi Mumbai,Nescafe Classic 100g,Beverages,Nescafe,1,310,20,248,248,223.2,24.8,Debit Card,New Customer
+911,19-05-2025,DMart South,Kolhapur,Fortune Sunflower Oil 1L,Grocery,Fortune,5,145,5,137.75,688.75,522,166.75,UPI,New Customer
+912,29-01-2025,DMart South,Thane,Tata Salt 1kg,Grocery,Tata,6,28,15,23.8,142.8,120.96,21.84,Cash,Regular
+913,13-11-2025,DMart Central,Thane,Coca-Cola 750ml,Beverages,Coca-Cola,6,45,5,42.75,256.5,194.4,62.1,Debit Card,Regular
+914,30-12-2025,DMart East,Mumbai,Harpic Toilet Cleaner 1L,Home Care,Harpic,2,190,10,171,342,273.6,68.4,Debit Card,Regular
+915,02-09-2025,DMart South,Nashik,Harpic Toilet Cleaner 1L,Home Care,Harpic,2,190,15,161.5,323,273.6,49.4,UPI,Member
+916,15-12-2025,DMart North,Aurangabad,Lay's Classic Salted 52g,Snacks,Lay's,5,25,10,22.5,112.5,90,22.5,Cash,Regular
+917,06-09-2025,DMart South,Kolhapur,Lay's Classic Salted 52g,Snacks,Lay's,6,25,5,23.75,142.5,108,34.5,Cash,Member
+918,14-11-2025,DMart West,Pune,Harpic Toilet Cleaner 1L,Home Care,Harpic,5,190,5,180.5,902.5,684,218.5,UPI,Member
+919,02-04-2025,DMart West,Pune,Tata Salt 1kg,Grocery,Tata,2,28,5,26.6,53.2,40.32,12.88,Cash,Regular
+920,17-03-2025,DMart North,Mumbai,Parle-G Biscuits 800g,Food,Parle,2,85,15,72.25,144.5,122.4,22.1,UPI,New Customer
+921,16-12-2025,DMart South,Mumbai,Aashirvaad Atta 5kg,Grocery,Aashirvaad,5,280,5,266,1330,1008,322,Credit Card,Member
+922,27-11-2025,DMart Central,Aurangabad,Tata Tea Gold 500g,Beverages,Tata,8,280,15,238,1904,1612.8,291.2,UPI,Regular
+923,24-09-2025,DMart West,Navi Mumbai,Aashirvaad Atta 5kg,Grocery,Aashirvaad,4,280,20,224,896,806.4,89.6,Debit Card,New Customer
+924,07-12-2025,DMart South,Kolhapur,Britannia Bread 400g,Bakery,Britannia,8,45,10,40.5,324,259.2,64.8,Credit Card,Member
+925,06-06-2025,DMart East,Aurangabad,Amul Taaza Milk 1L,Dairy,Amul,3,62,20,49.6,148.8,133.92,14.88,UPI,Member
+926,25-01-2025,DMart East,Thane,Lay's Classic Salted 52g,Snacks,Lay's,5,25,20,20,100,90,10,Debit Card,Member
+927,02-10-2025,DMart West,Mumbai,Vim Dishwash Bar 200g,Home Care,Vim,3,35,15,29.75,89.25,75.6,13.65,UPI,New Customer
+928,01-03-2025,DMart Central,Thane,Surf Excel Matic 2kg,Home Care,Surf Excel,3,410,0,410,1230,885.6,344.4,UPI,Member
+929,16-04-2025,DMart South,Nagpur,Parle-G Biscuits 800g,Food,Parle,6,85,0,85,510,367.2,142.8,Debit Card,Member
+930,04-10-2025,DMart East,Kolhapur,Surf Excel Matic 2kg,Home Care,Surf Excel,6,410,5,389.5,2337,1771.2,565.8,Debit Card,Regular
+931,16-03-2025,DMart North,Thane,Aashirvaad Atta 5kg,Grocery,Aashirvaad,7,280,5,266,1862,1411.2,450.8,UPI,Regular
+932,28-12-2025,DMart West,Amravati,Harpic Toilet Cleaner 1L,Home Care,Harpic,6,190,15,161.5,969,820.8,148.2,Debit Card,New Customer
+933,19-12-2025,DMart Central,Amravati,Surf Excel Matic 2kg,Home Care,Surf Excel,8,410,0,410,3280,2361.6,918.4,Cash,Regular
+934,13-01-2025,DMart North,Solapur,Harpic Toilet Cleaner 1L,Home Care,Harpic,2,190,0,190,380,273.6,106.4,UPI,Member
+935,29-01-2025,DMart South,Nashik,Lay's Classic Salted 52g,Snacks,Lay's,2,25,0,25,50,36,14,UPI,Member
+936,03-10-2025,DMart North,Pune,Colgate MaxFresh 150g,Personal Care,Colgate,1,125,0,125,125,90,35,Credit Card,Regular
+937,06-11-2025,DMart South,Nagpur,Pampers Diapers M 30s,Baby Care,Pampers,6,650,10,585,3510,2808,702,Debit Card,Member
+938,17-07-2025,DMart West,Nagpur,Surf Excel Matic 2kg,Home Care,Surf Excel,7,410,0,410,2870,2066.4,803.6,Debit Card,Member
+939,15-10-2025,DMart Central,Nashik,Lay's Classic Salted 52g,Snacks,Lay's,5,25,5,23.75,118.75,90,28.75,Credit Card,New Customer
+940,25-03-2025,DMart North,Navi Mumbai,Tata Tea Gold 500g,Beverages,Tata,8,280,0,280,2240,1612.8,627.2,UPI,New Customer
+941,17-04-2025,DMart West,Amravati,Maggi 2-Minute Noodles 280g,Food,Nestle,2,70,0,70,140,100.8,39.2,Debit Card,Regular
+942,04-01-2025,DMart North,Aurangabad,Kissan Tomato Ketchup 1kg,Food,Kissan,7,145,0,145,1015,730.8,284.2,Credit Card,Regular
+943,18-10-2025,DMart East,Nashik,Harpic Toilet Cleaner 1L,Home Care,Harpic,8,190,15,161.5,1292,1094.4,197.6,UPI,Member
+944,04-06-2025,DMart South,Aurangabad,Amul Taaza Milk 1L,Dairy,Amul,8,62,0,62,496,357.12,138.88,Credit Card,New Customer
+945,02-01-2025,DMart East,Aurangabad,Nescafe Classic 100g,Beverages,Nescafe,4,310,0,310,1240,892.8,347.2,Debit Card,New Customer
+946,07-12-2025,DMart West,Navi Mumbai,Pampers Diapers M 30s,Baby Care,Pampers,2,650,15,552.5,1105,936,169,UPI,Member
+947,22-05-2025,DMart North,Pune,Dove Soap 100g,Personal Care,Dove,1,62,0,62,62,44.64,17.36,Debit Card,New Customer
+948,13-05-2025,DMart North,Pune,Pampers Diapers M 30s,Baby Care,Pampers,7,650,20,520,3640,3276,364,Debit Card,New Customer
+949,13-05-2025,DMart East,Solapur,Kissan Tomato Ketchup 1kg,Food,Kissan,1,145,20,116,116,104.4,11.6,Cash,Regular
+950,11-03-2025,DMart West,Mumbai,Britannia Bread 400g,Bakery,Britannia,8,45,15,38.25,306,259.2,46.8,Cash,Member
+951,02-07-2025,DMart Central,Aurangabad,Lay's Classic Salted 52g,Snacks,Lay's,7,25,15,21.25,148.75,126,22.75,Debit Card,New Customer
+952,18-11-2025,DMart East,Pune,Tata Salt 1kg,Grocery,Tata,4,28,20,22.4,89.6,80.64,8.96,UPI,New Customer
+953,17-12-2025,DMart West,Aurangabad,Britannia Bread 400g,Bakery,Britannia,6,45,20,36,216,194.4,21.6,Debit Card,Regular
+954,15-03-2025,DMart Central,Mumbai,Harpic Toilet Cleaner 1L,Home Care,Harpic,6,190,20,152,912,820.8,91.2,Debit Card,Member
+955,25-03-2025,DMart Central,Nashik,Pampers Diapers M 30s,Baby Care,Pampers,7,650,0,650,4550,3276,1274,UPI,New Customer
+956,14-10-2025,DMart South,Kolhapur,Dove Soap 100g,Personal Care,Dove,4,62,20,49.6,198.4,178.56,19.84,Cash,Member
+957,09-03-2025,DMart Central,Amravati,Nescafe Classic 100g,Beverages,Nescafe,2,310,0,310,620,446.4,173.6,Debit Card,Member
+958,15-08-2025,DMart South,Kolhapur,Lay's Classic Salted 52g,Snacks,Lay's,3,25,20,20,60,54,6,Debit Card,Regular
+959,02-03-2025,DMart East,Mumbai,Amul Taaza Milk 1L,Dairy,Amul,1,62,15,52.7,52.7,44.64,8.06,UPI,New Customer
+960,18-04-2025,DMart East,Pune,Dove Soap 100g,Personal Care,Dove,5,62,0,62,310,223.2,86.8,Credit Card,New Customer
+961,05-09-2025,DMart North,Nagpur,India Gate Basmati Rice 5kg,Grocery,India Gate,2,520,0,520,1040,748.8,291.2,UPI,Regular
+962,02-03-2025,DMart West,Nagpur,Fortune Sunflower Oil 1L,Grocery,Fortune,1,145,5,137.75,137.75,104.4,33.35,Cash,Member
+963,05-03-2025,DMart South,Nashik,Aashirvaad Atta 5kg,Grocery,Aashirvaad,2,280,20,224,448,403.2,44.8,UPI,Regular
+964,16-03-2025,DMart West,Solapur,Lay's Classic Salted 52g,Snacks,Lay's,1,25,0,25,25,18,7,Debit Card,Member
+965,19-10-2025,DMart Central,Pune,Vim Dishwash Bar 200g,Home Care,Vim,4,35,10,31.5,126,100.8,25.2,Cash,New Customer
+966,29-03-2025,DMart South,Nagpur,Colgate MaxFresh 150g,Personal Care,Colgate,4,125,0,125,500,360,140,Cash,Regular
+967,24-12-2025,DMart South,Mumbai,Dettol Handwash 250ml,Personal Care,Dettol,8,95,0,95,760,547.2,212.8,Credit Card,New Customer
+968,01-07-2025,DMart North,Navi Mumbai,India Gate Basmati Rice 5kg,Grocery,India Gate,3,520,20,416,1248,1123.2,124.8,UPI,New Customer
+969,10-06-2025,DMart Central,Amravati,Dove Soap 100g,Personal Care,Dove,7,62,0,62,434,312.48,121.52,Cash,New Customer
+970,04-07-2025,DMart West,Kolhapur,Surf Excel Matic 2kg,Home Care,Surf Excel,8,410,20,328,2624,2361.6,262.4,Cash,Regular
+971,17-07-2025,DMart West,Amravati,Britannia Bread 400g,Bakery,Britannia,8,45,0,45,360,259.2,100.8,Debit Card,New Customer
+972,28-07-2025,DMart West,Navi Mumbai,Nescafe Classic 100g,Beverages,Nescafe,4,310,10,279,1116,892.8,223.2,UPI,Regular
+973,07-01-2025,DMart North,Pune,Pampers Diapers M 30s,Baby Care,Pampers,6,650,0,650,3900,2808,1092,Credit Card,Member
+974,15-03-2025,DMart North,Navi Mumbai,Dettol Handwash 250ml,Personal Care,Dettol,2,95,0,95,190,136.8,53.2,Cash,New Customer
+975,12-04-2025,DMart West,Nashik,Vim Dishwash Bar 200g,Home Care,Vim,2,35,0,35,70,50.4,19.6,Credit Card,Regular
+976,13-09-2025,DMart West,Solapur,Dove Soap 100g,Personal Care,Dove,7,62,15,52.7,368.9,312.48,56.42,Debit Card,New Customer
+977,08-12-2025,DMart South,Navi Mumbai,Coca-Cola 750ml,Beverages,Coca-Cola,6,45,5,42.75,256.5,194.4,62.1,Credit Card,New Customer
+978,21-08-2025,DMart Central,Pune,Parle-G Biscuits 800g,Food,Parle,3,85,20,68,204,183.6,20.4,Debit Card,Member
+979,10-03-2025,DMart Central,Pune,Pampers Diapers M 30s,Baby Care,Pampers,4,650,15,552.5,2210,1872,338,Cash,Regular
+980,15-07-2025,DMart South,Thane,Pampers Diapers M 30s,Baby Care,Pampers,1,650,0,650,650,468,182,UPI,Member
+981,09-02-2025,DMart South,Amravati,Maggi 2-Minute Noodles 280g,Food,Nestle,2,70,20,56,112,100.8,11.2,Credit Card,Regular
+982,16-09-2025,DMart West,Kolhapur,Amul Taaza Milk 1L,Dairy,Amul,8,62,5,58.9,471.2,357.12,114.08,Debit Card,New Customer
+983,17-01-2025,DMart North,Pune,Harpic Toilet Cleaner 1L,Home Care,Harpic,1,190,20,152,152,136.8,15.2,Credit Card,Member
+984,24-08-2025,DMart Central,Nagpur,Britannia Bread 400g,Bakery,Britannia,7,45,5,42.75,299.25,226.8,72.45,UPI,New Customer
+985,09-08-2025,DMart East,Aurangabad,Amul Taaza Milk 1L,Dairy,Amul,3,62,5,58.9,176.7,133.92,42.78,Credit Card,Member
+986,11-10-2025,DMart South,Solapur,India Gate Basmati Rice 5kg,Grocery,India Gate,8,520,15,442,3536,2995.2,540.8,Credit Card,Member
+987,29-01-2025,DMart North,Aurangabad,Harpic Toilet Cleaner 1L,Home Care,Harpic,3,190,10,171,513,410.4,102.6,Credit Card,New Customer
+988,26-05-2025,DMart West,Nagpur,Coca-Cola 750ml,Beverages,Coca-Cola,6,45,20,36,216,194.4,21.6,Cash,New Customer
+989,07-07-2025,DMart West,Solapur,Fortune Sunflower Oil 1L,Grocery,Fortune,3,145,20,116,348,313.2,34.8,Cash,New Customer
+990,08-08-2025,DMart West,Thane,Britannia Bread 400g,Bakery,Britannia,7,45,0,45,315,226.8,88.2,Credit Card,Member
+991,01-05-2025,DMart West,Solapur,Fortune Sunflower Oil 1L,Grocery,Fortune,4,145,0,145,580,417.6,162.4,Cash,New Customer
+992,22-06-2025,DMart East,Nagpur,Tata Salt 1kg,Grocery,Tata,5,28,0,28,140,100.8,39.2,Debit Card,Regular
+993,21-09-2025,DMart North,Aurangabad,Nescafe Classic 100g,Beverages,Nescafe,7,310,10,279,1953,1562.4,390.6,Cash,New Customer
+994,13-07-2025,DMart South,Navi Mumbai,Pampers Diapers M 30s,Baby Care,Pampers,1,650,0,650,650,468,182,Debit Card,New Customer
+995,20-12-2025,DMart East,Thane,India Gate Basmati Rice 5kg,Grocery,India Gate,8,520,0,520,4160,2995.2,1164.8,Credit Card,New Customer
+996,03-06-2025,DMart West,Navi Mumbai,Britannia Bread 400g,Bakery,Britannia,3,45,10,40.5,121.5,97.2,24.3,UPI,Member
+997,16-05-2025,DMart Central,Aurangabad,Tata Salt 1kg,Grocery,Tata,4,28,0,28,112,80.64,31.36,Credit Card,Regular
+998,24-10-2025,DMart Central,Solapur,Maggi 2-Minute Noodles 280g,Food,Nestle,2,70,15,59.5,119,100.8,18.2,Debit Card,Member
+999,18-04-2025,DMart West,Pune,Tata Salt 1kg,Grocery,Tata,8,28,5,26.6,212.8,161.28,51.52,Debit Card,New Customer
+1000,04-10-2025,DMart West,Nashik,Amul Taaza Milk 1L,Dairy,Amul,7,62,15,52.7,368.9,312.48,56.42,Credit Card,Member
